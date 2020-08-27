@@ -1,4 +1,4 @@
-﻿id,orden,año,fecha,cargo,nombre,fn,edad,partido,estado,fecha_endoso,link,
+﻿id,orden,año,fecha,Cargo,Nombre,fn,edad,Partido,Estado,fecha_endoso,link,
 1,1,2020,19/08/2020,Presidente,Sebastián Piñera Echeñique,01/12/1949,71,Independiente,sin info,,,
 2,2,2020,19/08/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,78,Partido Democrata Cristiano,sin info,,,
 3,2,2020,19/08/2020,Ex Presidente,Ricardo Froilán Lagos Escobar,02/03/1938,82,Partido por la Democracia,sin info,,,
