@@ -1,264 +1,264 @@
-﻿id,orden,año,fecha,Cargo,Nombre,fn,edad,Partido,Partido,Estado,fecha_endoso,link
-1,1,2020,19/08/2020,Presidente,Sebastián Piñera Echeñique,01/12/1949,71,Independiente,IND,Sin info,,
-2,2,2020,19/08/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,78,Partido Democrata Cristiano,DC,Sin info,,
-3,2,2020,19/08/2020,Ex Presidente,Ricardo Lagos Escobar,02/03/1938,82,Partido por la Democracia,PPD,Sin info,,
-4,2,2020,19/08/2020,Ex Presidente,Michelle Bachelet Jeria,29/09/1951,69,Partido Socialista,PS,Sin info,,
-5,3,2020,18/08/2020,Ministro,Ignacio Briones Rojas,12/12/1972,48,Evolución Política,EVO,Apruebo,15/08/2020,La Tercera
-6,3,2020,18/08/2020,Ministro,Gloria Hutt Hesse,31/01/1955,65,Evolución Política,EVO,Apruebo,15/08/2020,La Tercera
-7,3,2020,18/08/2020,Ministro,Karla Rubilar Barahona,17/04/1977,43,Independiente,IND,Apruebo,15/08/2020,La Tercera
-8,3,2020,18/08/2020,Ministro,María José Zaldívar Larraín,16/09/1975,45,Independiente,IND,Apruebo,15/08/2020,La Tercera
-9,3,2020,18/08/2020,Ministro,Antonio Walker Prieto,28/06/1961,59,Independiente,IND,Apruebo,15/08/2020,La Tercera
-10,3,2020,18/08/2020,Ministro,Juan Carlos Jobet Eluchans,14/10/1975,45,Independiente,IND,Apruebo,15/08/2020,La Tercera
-11,3,2020,18/08/2020,Ministro,Consuelo Valdés Chadwick,09/10/1948,72,Independiente,IND,Apruebo,15/08/2020,La Tercera
-12,3,2020,18/08/2020,Ministro,Raúl Figueroa Salas,21/03/1975,45,Independiente,IND,Rechazo,15/08/2020,La Tercera
-13,3,2020,18/08/2020,Ministro,Alfredo Moreno Charme,04/08/1956,64,Independiente,IND,Sin info,,
-14,3,2020,18/08/2020,Ministro,Enrique Paris Mancilla,03/09/1948,72,Independiente,IND,Sin info,,
-15,3,2020,18/08/2020,Ministro,Carolina Schmidt Zaldívar,09/09/1967,53,Independiente,IND,Sin info,,
-16,3,2020,18/08/2020,Ministro,Andrés Couve Correa,23/10/1968,52,Independiente,IND,Sin info,,
-17,3,2020,18/08/2020,Ministro,Mario Desbordes Jiménez,15/10/1968,52,Renovación Nacional,RN,Apruebo,15/08/2020,La Tercera
-18,3,2020,18/08/2020,Ministro,Cristián Monckeberg Bruner,12/05/1968,52,Renovación Nacional,RN,Apruebo,15/08/2020,La Tercera
-19,3,2020,18/08/2020,Ministro,Andrés Allamand Zavala,07/02/1956,64,Renovación Nacional,RN,Rechazo,15/08/2020,La Tercera
-20,3,2020,18/08/2020,Ministro,Baldo Prokuriça Prokuriça,02/07/1958,62,Renovación Nacional,RN,Rechazo,15/08/2020,La Tercera
-21,3,2020,18/08/2020,Ministro,Cecilia Pérez Jara,23/09/1974,46,Renovación Nacional,RN,Reflexión,15/08/2020,La Tercera
-22,3,2020,18/08/2020,Ministro,Lucas Palacios Covarrubias,17/03/1974,46,Unión Demócrata Independiente,UDI,Apruebo,15/08/2020,La Tercera
-23,3,2020,18/08/2020,Ministro,Jaime Bellolio Avaría,29/11/1980,40,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
-24,3,2020,18/08/2020,Ministro,Victor Pérez Varela,18/10/1954,66,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
-25,3,2020,18/08/2020,Ministro,Felipe Ward Edwards ,14/09/1972,48,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
-26,3,2020,18/08/2020,Ministro,Julio Isamit Díaz,18/02/1989,31,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
-27,3,2020,18/08/2020,Ministro,Mónica Zalaquett Said,04/05/1962,58,Unión Demócrata Independiente,UDI,Reflexión,15/08/2020,La Tercera
-28,3,2020,18/08/2020,Ministro,Hernán Larraín Fernández,21/09/1947,73,Unión Demócrata Independiente,UDI,Sin info,,
-29,4,2020,,Intendente,Juan Eduardo Prieto ,08/11/1984,36,Evolución Política,EVO,Sin info,,
-30,4,2020,,Intendente,Geoconda Navarrete Arratia ,08/09/1969,51,Evolución Política,EVO,Sin info,,
-31,4,2020,,Intendente,Martín Arrau García-Huidobro ,,,Independiente,IND,Sin info,,
-32,4,2020,,Intendente,César Asenjo Jerez ,,,Independiente,IND,Sin info,,
-33,4,2020,,Intendente,José Fernández Dübrock ,10/10/1953,67,Independiente,IND,Sin info,,
-34,4,2020,,Intendente,Edgar Blanco Rand ,,,Renovación Nacional,RN,Sin info,,
-35,4,2020,,Intendente,Patricio Urquieta García ,15/12/1981,39,Renovación Nacional,RN,Sin info,,
-36,4,2020,,Intendente,Jorge Martínez Durán ,19/11/1972,48,Renovación Nacional,RN,Sin info,,
-37,4,2020,,Intendente,Felipe Guevara Stephens ,05/08/1967,53,Renovación Nacional,RN,Sin info,,
-38,4,2020,,Intendente,Víctor Manoli Nazal ,,,Renovación Nacional,RN,Sin info,,
-39,4,2020,,Intendente,Harry Jürgensen Caesar,30/05/1949,71,Renovación Nacional,RN,Sin info,,
-40,4,2020,,Intendente,Miguel Ángel Quezada ,16/10/1969,51,Unión Demócrata Independiente,UDI,Sin info,,
-41,4,2020,,Intendente,Lucía Pinto Ramírez,18/09/1975,45,Unión Demócrata Independiente,UDI,Sin info,,
-42,4,2020,,Intendente,Rebeca Cofré Calderón ,23/08/1962,58,Unión Demócrata Independiente,UDI,Sin info,,
-43,4,2020,,Intendente,Sergio Giacaman García ,07/09/1979,41,Unión Demócrata Independiente,UDI,Sin info,,
-44,4,2020,,Intendente,Roberto Erpel Seguel ,17/12/1956,64,Unión Demócrata Independiente,UDI,Sin info,,
-45,5,2020,19/08/2020,Alcalde,Cathy Barriga Guerra,09/04/1973,47,Independiente,IND,Reflexión,02/03/2020,Cambio21
-46,5,2020,19/08/2020,Alcalde,Rodolfo Carter Fernández,06/06/1971,49,Independiente,IND,Apruebo,02/03/2020,Cambio21
-47,5,2020,18/08/2020,Alcalde,Jorge Sharp Fajardo,25/03/1985,35,Independiente,IND,Apruebo,,Instagram
-48,5,2020,19/08/2020,Alcalde,Mauricio Soria Macchiavello,03/03/1969,51,Independiente,IND,Apruebo,02/03/2020,Cambio21
-49,5,2020,,Alcalde,Omar Sabat Guzmán,,,Independiente,IND,Sin info,,
-50,5,2020,,Alcalde,Marcos López Rivera,20/03/1957,63,Independiente,IND,Sin info,,
-51,5,2020,19/08/2020,Alcalde,Marcelo Pereira Peralta,,,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-52,5,2020,19/08/2020,Alcalde,Álvaro Ortíz Vera,24/10/1977,43,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-53,5,2020,18/08/2020,Alcalde,Gerardo Espíndola Rojas,23/07/1978,42,Partido Liberal,PL,Apruebo,,Instagram
-54,5,2020,19/08/2020,Alcalde,Ignacio Pozo Piña,15/08/1994,26,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-55,5,2020,,Alcalde,Leonel Cádiz Soto,,,Partido Socialista,PS,Sin info,,
-56,5,2020,26/08/2020,Alcalde,Gervoy Paredes Rojas,,,Partido Socialista,PS,Apruebo,,Twitter
-57,5,2020,26/08/2020,Alcalde,Alejandro Huala Canumán,,,Partido Socialista,PS,Apruebo,,Hoy Coiaique
-58,5,2020,19/08/2020,Alcalde,Germán Codina Powers,28/03/1974,46,Renovación Nacional,RN,Apruebo,02/03/2020,Cambio21
-59,5,2020,19/08/2020,Alcalde,Felipe Alessandri Vergara,04/02/1975,45,Renovación Nacional,RN,Apruebo,17/02/2020,El Mostrador
-60,5,2020,,Alcalde,Miguel Ángel Becker Alvear,07/10/1960,60,Renovación Nacional,RN,Sin info,,
-61,5,2020,,Alcalde,Juan Carlos Díaz Avendaño,,,Renovación Nacional,RN,Sin info,,
-62,5,2020,,Alcalde,Sergio Zarzar Andonie,12/01/1952,68,Renovación Nacional,RN,Sin info,,
-63,5,2020,,Alcalde,Claudio Radonich,26/03/1976,44,Renovación Nacional,RN,Sin info,,
-64,5,2020,19/08/2020,Alcalde,Virginia Reginato Bozzo,16/07/1939,81,Unión Demócrata Independiente,UDI,Rechazo,02/03/2020,Cambio21
-65,5,2020,19/08/2020,Alcalde,Joaquín Lavín Infante,23/10/1953,67,Unión Demócrata Independiente,UDI,Apruebo,05/08/2020,La Tercera
-66,6,2020,29/08/2020,Senador,Felipe Kast Sommerhoff,09/06/1977,43,Evolución Política,EVO,Apruebo,28/08/2020,La Tercera
-67,6,2020,29/08/2020,Senador,Carmen Gloria Aravena Acuña,06/01/1967,53,Independiente,IND,Rechazo,,Instagram
-68,6,2020,18/08/2020,Senador,Juan Castro Prieto,01/11/1959,61,Independiente,IND,Rechazo,07/01/2020,La Tercera
-69,6,2020,18/08/2020,Senador,Kenneth Pugh Olavarría,22/10/1959,61,Independiente,IND,Rechazo,07/01/2020,La Tercera
-70,6,2020,29/08/2020,Senador,Carlos Bianchi Chelech,04/11/1960,60,Independiente,IND,Apruebo,,Twitter
-71,6,2020,18/08/2020,Senador,Alejandro Guillier Álvarez,05/03/1953,67,Independiente,IND,Apruebo,,Instagram
-72,6,2020,,Senador,Pedro Araya Guerrero,16/06/1974,46,Independiente,IND,Sin info,,
-73,6,2020,18/08/2020,Senador,Alejandro Navarro Brain,20/11/1958,62,Movimiento Amplio Socialista,MAS,Apruebo,,Instagram
-74,6,2020,18/08/2020,Senador,Francisco Huenchumilla Jaramillo,22/03/1944,76,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-75,6,2020,18/08/2020,Senador,Yasna Provoste Campillay,16/12/1969,51,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-76,6,2020,18/08/2020,Senador,Ximena Rincón González,05/07/1968,52,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-77,6,2020,19/08/2020,Senador,Carolina Goic Boroevic,20/12/1972,48,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-78,6,2020,19/08/2020,Senador,Jorge Pizarro Soto,21/04/1952,68,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-79,6,2020,18/08/2020,Senador,Ricardo Lagos Weber,21/02/1962,58,Partido por la Democracia,PPD,Apruebo,,Instagram
-80,6,2020,19/08/2020,Senador,Ximena Órdenes Neira,09/03/1973,47,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-81,6,2020,19/08/2020,Senador,Jaime Quintana Leal,22/10/1967,53,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-82,6,2020,19/08/2020,Senador,Jorge Soria Quiroga,01/11/1936,84,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-83,6,2020,19/08/2020,Senador,Guido Girardi Lavín,24/01/1961,59,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-84,6,2020,19/08/2020,Senador,Felipe Harboe Bascuñán,20/07/1972,48,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-85,6,2020,19/08/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,72,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-86,6,2020,19/08/2020,Senador,Álvaro Elizalde Soto,15/10/1969,51,Partido Socialista,PS,Apruebo,19/08/2020,T13
-87,6,2020,19/08/2020,Senador,José Miguel Insulza Salinas,02/06/1943,77,Partido Socialista,PS,Apruebo,19/08/2020,T13
-88,6,2020,19/08/2020,Senador,Isabel Allende Bussi,18/01/1945,75,Partido Socialista,PS,Apruebo,19/08/2020,T13
-89,6,2020,19/08/2020,Senador,Alfonso De Urresti Longton,07/03/1966,54,Partido Socialista,PS,Apruebo,19/08/2020,T13
-90,6,2020,19/08/2020,Senador,Juan Pablo Letelier Morel,07/01/1961,59,Partido Socialista,PS,Apruebo,19/08/2020,T13
-91,6,2020,18/08/2020,Senador,Carlos Montes Cisternas,11/05/1946,74,Partido Socialista,PS,Apruebo,,Instagram
-92,6,2020,19/08/2020,Senador,Rabindranath Quinteros Lara,31/10/1943,77,Partido Socialista,PS,Apruebo,,Twitter
-93,6,2020,19/08/2020,Senador,Marcela Sabat Fernández,04/04/1981,39,Renovación Nacional,RN,Apruebo,,Instagram
-94,6,2020,29/08/2020,Senador,Francisco Chahuan Chahuan,20/05/1971,49,Renovación Nacional,RN,Rechazo,,Instagram
-95,6,2020,18/08/2020,Senador,Rodrigo Galilea Vial,03/11/1966,54,Renovación Nacional,RN,Rechazo,07/01/2020,La Tercera
-96,6,2020,29/08/2020,Senador,José García Ruminot,22/05/1955,65,Renovación Nacional,RN,Rechazo,,Instagram
-97,6,2020,18/08/2020,Senador,Rafael Prohens Espinosa,12/06/1955,65,Renovación Nacional,RN,Rechazo,07/01/2020,La Tercera
-98,6,2020,19/08/2020,Senador,Manuel José Ossandón Irarrázabal,24/08/1962,58,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
-99,6,2020,18/08/2020,Senador,Juan Ignacio Latorre Riveros,24/03/1978,42,Revolución Democrática,RD,Apruebo,,Twitter
-100,6,2020,19/08/2020,Senador,José Durana Semir,27/06/1960,60,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
-101,6,2020,19/08/2020,Senador,Luz Ebensperger Orrego,08/03/1964,56,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
-102,6,2020,19/08/2020,Senador,David Sandoval Plaza,20/10/1952,68,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
-103,6,2020,29/08/2020,Senador,Juan Antonio Coloma Correa,15/07/1956,64,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-104,6,2020,29/08/2020,Senador,Iván Moreira Barros,08/12/1956,64,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-105,6,2020,29/08/2020,Senador,Ena Von Baer Jahn,28/11/1974,46,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-106,6,2020,19/08/2020,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,68,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
-107,6,2020,18/08/2020,Senador,Jacqueline Van Rysselberghe Herrera,03/02/1965,55,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-108,6,2020,,Senador,Claudio Alvarado Andrade,07/02/1960,60,Unión Demócrata Independiente,UDI,Sin info,,
-109,7,2020,18/08/2020,Diputado,Diego Ibáñez Cotroneo,25/01/1989,31,Convergencia Social,CS,Apruebo,,Twitter
-110,7,2020,18/08/2020,Diputado,Gabriel Boric Font,11/02/1986,34,Convergencia Social,CS,Apruebo,,Instagram
-111,7,2020,18/08/2020,Diputado,Gonzalo Winter Etcheberry,06/01/1987,33,Convergencia Social,CS,Apruebo,,Instagram
-112,7,2020,18/08/2020,Diputado,Sebastián Keitel Bianchi,14/02/1973,47,Evolución Política,EVO,Apruebo,24/07/2020,Nuevo Poder
-113,7,2020,18/08/2020,Diputado,Pablo Kast Sommerhoff,24/08/1973,47,Evolución Política,EVO,Apruebo,24/07/2020,Nuevo Poder
-114,7,2020,18/08/2020,Diputado,Sebastían Álvarez Ramírez,13/11/1970,50,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
-115,7,2020,29/08/2020,Diputado,Luciano Cruz-Coke Carvallo,01/07/1970,50,Evolución Política,EVO,Rechazo,,Twitter
-116,7,2020,18/08/2020,Diputado,Andrés Molina Magofke,17/11/1963,57,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
-117,7,2020,18/08/2020,Diputado,Francisco Undurraga Gazitúa,29/09/1965,55,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
-118,7,2020,18/08/2020,Diputado,Jaime Mulet Martínez,03/08/1963,57,Federación Regionalista Verde Social,FRVS,Apruebo,,Instagram
-119,7,2020,19/08/2020,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,55,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
-120,7,2020,19/08/2020,Diputado,Pedro Velasquez Seguel,05/08/1964,56,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
-121,7,2020,19/08/2020,Diputado,Esteban Velásquez Núñez,26/12/1962,58,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
-122,7,2020,18/08/2020,Diputado,Karim Bianchi Retamales,31/01/1983,37,Independiente,IND,Apruebo,,Instagram
-123,7,2020,,Diputado,Rene Saffirio Espinoza,09/10/1955,65,Independiente,IND,Sin info,,
-124,7,2020,18/08/2020,Diputado,Camila Vallejo Dowling,28/04/1988,32,Partido Comunista de Chile,PC,Apruebo,,Twitter
-125,7,2020,18/08/2020,Diputado,Karol Cariola Oliva,01/04/1987,33,Partido Comunista de Chile,PC,Apruebo,,Instagram
-126,7,2020,18/08/2020,Diputado,Boris Barrera Moreno,03/05/1970,50,Partido Comunista de Chile,PC,Apruebo,,Instagram
-127,7,2020,18/08/2020,Diputado,Hugo Gutiérrez Gálvez,05/10/1961,59,Partido Comunista de Chile,PC,Apruebo,,Instagram
-128,7,2020,18/08/2020,Diputado,Carmen Hertz Cádiz,19/06/1945,75,Partido Comunista de Chile,PC,Apruebo,,Instagram
-129,7,2020,18/08/2020,Diputado,Amaro Labra Sepúlveda,25/10/1949,71,Partido Comunista de Chile,PC,Apruebo,,Instagram
-130,7,2020,18/08/2020,Diputado,Daniel Núñez Arancibia,07/01/1971,49,Partido Comunista de Chile,PC,Apruebo,,Instagram
-131,7,2020,19/08/2020,Diputado,Guillermo Teillier del Valle,29/10/1943,77,Partido Comunista de Chile,PC,Apruebo,19/08/2020,T13
-132,7,2020,18/08/2020,Diputado,Gabriel Ascencio Mansilla,25/10/1953,67,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-133,7,2020,19/08/2020,Diputado,Miguel Calisto Águila,19/07/1985,35,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-134,7,2020,19/08/2020,Diputado,Iván Flores García,15/06/1955,65,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-135,7,2020,19/08/2020,Diputado,Manuel Matta Aragay,10/11/1946,74,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-136,7,2020,19/08/2020,Diputado,José Miguel Ortiz Novoa,22/11/1941,79,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-137,7,2020,19/08/2020,Diputado,Joanna Pérez Olea,01/04/1976,44,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-138,7,2020,18/08/2020,Diputado,Gabriel Silber Romo,15/09/1976,44,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-139,7,2020,19/08/2020,Diputado,Raúl Soto Mardones,20/11/1987,33,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-140,7,2020,19/08/2020,Diputado,Víctor Torres Jeldes,11/10/1975,45,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-141,7,2020,19/08/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,63,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-142,7,2020,19/08/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,68,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-143,7,2020,19/08/2020,Diputado,Pablo Lorenzini Basso,25/10/1949,71,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-144,7,2020,19/08/2020,Diputado,Jorge Sabag Villalobos,26/12/1963,57,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
-145,7,2020,18/08/2020,Diputado,Matias Walker Prieto,19/07/1973,47,Partido Democrata Cristiano,DC,Apruebo,,Instagram
-146,7,2020,19/08/2020,Diputado,Félix González Gatica,26/05/1972,48,Partido Ecologista Verde,PEV,Apruebo,26/02/2020,Cooperativa
-147,7,2020,19/08/2020,Diputado,Raúl Florcita Alarcón Rojas,15/10/1945,75,Partido Humanista,PH,Apruebo,18/12/2019,Agricultura
-148,7,2020,18/08/2020,Diputado,Tomás Hirsch Goldschmidt,19/07/1956,64,Partido Humanista,PH,Apruebo,,Instagram
-149,7,2020,18/08/2020,Diputado,Pamela Jiles Moreno,30/11/1960,60,Partido Humanista,PH,Apruebo,,Instagram
-150,7,2020,18/08/2020,Diputado,Camila Rojas Valderrama,11/03/1991,29,Partido Igualdad,PI,Apruebo,,Twitter
-151,7,2020,18/08/2020,Diputado,Alejandro Bernales Maldonado,02/02/1979,41,Partido Liberal,PL,Apruebo,,Instagram
-152,7,2020,18/08/2020,Diputado,Vlado Mirosevic Verdugo,23/05/1987,33,Partido Liberal,PL,Apruebo,,Instagram
-153,7,2020,18/08/2020,Diputado,Claudia Mix Jiménez,13/07/1969,51,Partido Poder Ciudadano,PPC,Apruebo,,Instagram
-154,7,2020,19/08/2020,Diputado,René Alinco Bustos,02/06/1958,62,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-155,7,2020,19/08/2020,Diputado,Loreto Carvajal Ambiado,18/05/1973,47,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-156,7,2020,18/08/2020,Diputado,Ricardo Celis Araya,11/07/1955,65,Partido por la Democracia,PPD,Apruebo,,Instagram
-157,7,2020,19/08/2020,Diputado,Rodrigo González Torres,26/09/1941,79,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-158,7,2020,19/08/2020,Diputado,Tucapel Jiménez Fuentes,01/09/1962,58,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-159,7,2020,18/08/2020,Diputado,Carolina Marzán Pinto,22/12/1963,57,Partido por la Democracia,PPD,Apruebo,,Instagram
-160,7,2020,19/08/2020,Diputado,Andrea Parra Sauterel,02/09/1967,53,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-161,7,2020,19/08/2020,Diputado,Cristina Girardi Lavín,09/01/1962,58,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
-162,7,2020,19/08/2020,Diputado,Marisela Santibáñez Novoa,24/04/1975,45,Partido Comunista de Chile,PC,Apruebo,12/08/2020,Pauta
-163,7,2020,19/08/2020,Diputado,Pepe Auth Stewart,06/03/1957,63,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-164,7,2020,19/08/2020,Diputado,Marcela Hernando Pérez,12/02/1960,60,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-165,7,2020,19/08/2020,Diputado,Cosme Mellado Pino,24/02/1960,60,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-166,7,2020,19/08/2020,Diputado,Fernando Meza Moncada,14/07/1946,74,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-167,7,2020,19/08/2020,Diputado,José Pérez Arriagada,29/12/1940,80,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-168,7,2020,19/08/2020,Diputado,Alexis Sepúlveda Soto,29/12/1969,51,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-169,7,2020,19/08/2020,Diputado,Carlos Abel Jarpa Wevar,14/11/1944,76,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
-170,7,2020,18/08/2020,Diputado,Marcelo Díaz Díaz,06/02/1971,49,Partido Socialista,PS,Apruebo,,Twitter
-171,7,2020,19/08/2020,Diputado,Jenny Álvarez Vera,30/03/1974,46,Partido Socialista,PS,Apruebo,19/08/2020,T13
-172,7,2020,19/08/2020,Diputado,Juan Luis Castro González,18/04/1960,60,Partido Socialista,PS,Apruebo,19/08/2020,T13
-173,7,2020,19/08/2020,Diputado,Daniella Cicardini Milla,31/12/1987,33,Partido Socialista,PS,Apruebo,19/08/2020,T13
-174,7,2020,19/08/2020,Diputado,Fidel Espinoza Sandoval,24/01/1970,50,Partido Socialista,PS,Apruebo,19/08/2020,T13
-175,7,2020,18/08/2020,Diputado,Marcos Ilabaca Cerda,05/10/1970,50,Partido Socialista,PS,Apruebo,,Instagram
-176,7,2020,19/08/2020,Diputado,Raúl Leiva Carvajal,24/03/1974,46,Partido Socialista,PS,Apruebo,19/08/2020,T13
-177,7,2020,19/08/2020,Diputado,Manuel Monsalve Benavides,09/06/1965,55,Partido Socialista,PS,Apruebo,19/08/2020,T13
-178,7,2020,18/08/2020,Diputado,Jaime Naranjo Ortiz,12/01/1951,69,Partido Socialista,PS,Apruebo,,Instagram
-179,7,2020,19/08/2020,Diputado,Emilia Nuyado Ancapichún,17/08/1968,52,Partido Socialista,PS,Apruebo,19/08/2020,T13
-180,7,2020,18/08/2020,Diputado,Luis Rocafull López,17/09/1958,62,Partido Socialista,PS,Apruebo,,Instagram
-181,7,2020,19/08/2020,Diputado,Patricio Rosas Barrientos,06/05/1968,52,Partido Socialista,PS,Apruebo,19/08/2020,T13
-182,7,2020,19/08/2020,Diputado,Gastón Saavedra Chandía,22/11/1955,65,Partido Socialista,PS,Apruebo,19/08/2020,T13
-183,7,2020,19/08/2020,Diputado,Raúl Saldívar Auger,02/06/1951,69,Partido Socialista,PS,Apruebo,19/08/2020,T13
-184,7,2020,18/08/2020,Diputado,Juan Rubén Santana,20/09/1989,31,Partido Socialista,PS,Apruebo,,Instagram
-185,7,2020,19/08/2020,Diputado,Marcelo Schilling Rodríguez,18/05/1949,71,Partido Socialista,PS,Apruebo,19/08/2020,T13
-186,7,2020,19/08/2020,Diputado,Leonardo Soto Ferrada,15/05/1966,54,Partido Socialista,PS,Apruebo,19/08/2020,T13
-187,7,2020,18/08/2020,Diputado,Maya Fernández Allende,27/09/1971,49,Partido Socialista,PS,Apruebo,,Instagram
-188,7,2020,19/08/2020,Diputado,Jaime Tohá González,16/06/1938,82,Partido Socialista,PS,Apruebo,19/08/2020,T13
-189,7,2020,18/08/2020,Diputado,Francesca Muñoz González,07/03/1980,40,Renovación Nacional,RN,Rechazo,,Twitter
-190,7,2020,19/08/2020,Diputado,Bernardo Berger Fett,04/10/1946,74,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
-191,7,2020,26/08/2020,Diputado,José Miguel Castro Bascuñan,05/08/1974,46,Renovación Nacional,RN,Rechazo,,Instagram
-192,7,2020,29/08/2020,Diputado,Andrés Celis Montt,08/04/1975,45,Renovación Nacional,RN,Apruebo,,Twitter
-193,7,2020,29/08/2020,Diputado,Sofía Cid Versalovic,29/09/1971,49,Renovación Nacional,RN,Rechazo,,Instagram
-194,7,2020,19/08/2020,Diputado,Catalina Del Real Mihovilovic,07/11/1968,52,Renovación Nacional,RN,Rechazo,14/03/2020,Bío Bío
-195,7,2020,19/08/2020,Diputado,Eduardo Durán Salinas,01/01/1972,48,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
-196,7,2020,29/08/2020,Diputado,Jorge Durán Espinosa,17/12/1980,40,Renovación Nacional,RN,Apruebo,,Twitter
-197,7,2020,01/09/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,53,Renovación Nacional,RN,Rechazo,,Twitter
-198,7,2020,18/08/2020,Diputado,Camila Flores Oporto,09/02/1987,33,Renovación Nacional,RN,Rechazo,,Instagram
-199,7,2020,29/08/2020,Diputado,Gonzalo Fuenzalida Figueroa,18/06/1973,47,Renovación Nacional,RN,Reflexión,,El Libero
-200,7,2020,,Diputado,Ramón Galleguillos Castillo,26/07/1953,67,Renovación Nacional,RN,Sin info,,
-201,7,2020,,Diputado,René Manuel García Garcia,24/05/1950,70,Renovación Nacional,RN,Sin info,,
-202,7,2020,,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,67,Renovación Nacional,RN,Sin info,,
-203,7,2020,19/08/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,40,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
-204,7,2020,19/08/2020,Diputado,Karin Luck Urban,19/07/1971,49,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
-205,7,2020,19/08/2020,Diputado,Miguel Mellado Suazo,29/12/1958,62,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
-206,7,2020,29/08/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,44,Renovación Nacional,RN,Apruebo,,Twitter
-207,7,2020,19/08/2020,Diputado,Luis Pardo Sáinz,13/12/1960,60,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
-208,7,2020,19/08/2020,Diputado,Diego Paulsen Kehr,01/08/1987,33,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
-209,7,2020,29/08/2020,Diputado,Paulina Núñez Urrutia,30/12/1982,38,Renovación Nacional,RN,Apruebo,,Instagram
-210,7,2020,,Diputado,Leopoldo Pérez Lahsen,28/03/1957,63,Renovación Nacional,RN,Sin info,,
-211,7,2020,,Diputado,Pablo Prieto Lorca,04/05/1959,61,Renovación Nacional,RN,Sin info,,
-212,7,2020,19/08/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,53,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
-213,7,2020,19/08/2020,Diputado,Hugo Rey Martínez,06/12/1973,47,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
-214,7,2020,26/08/2020,Diputado,Leonidas Romero Saéz,15/10/1955,65,Renovación Nacional,RN,Rechazo,,Instagram
-215,7,2020,,Diputado,Alejandro Santana Tirachini,18/07/1965,55,Renovación Nacional,RN,Sin info,,
-216,7,2020,,Diputado,Frank Sauerbaum Muñoz,21/11/1972,48,Renovación Nacional,RN,Sin info,,
-217,7,2020,18/08/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,35,Renovación Nacional,RN,Rechazo,,Instagram
-218,7,2020,19/08/2020,Diputado,Sebastián Torrealba Alvarado,06/02/1981,39,Renovación Nacional,RN,Rechazo,,Instagram
-219,7,2020,29/08/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,45,Renovación Nacional,RN,Rechazo,,Twitter
-220,7,2020,29/08/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,52,Renovación Nacional,RN,Rechazo,,Instagram
-221,7,2020,19/08/2020,Diputado,Andrés Longton Herrera,26/05/1982,38,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
-222,7,2020,26/08/2020,Diputado,Ximena Ossandón Irarrázaval,13/12/1963,57,Renovación Nacional,RN,Apruebo,,El Mostrador
-223,7,2020,26/08/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,30,Renovación Nacional,RN,Apruebo,,Instagram
-224,7,2020,26/08/2020,Diputado,Tomás Fuentes Barros,10/03/1985,35,Renovación Nacional,RN,Rechazo,,Instagram
-225,7,2020,18/08/2020,Diputado,Natalia Castillo Muñoz,01/08/1982,38,Revolución Democrática,RD,Apruebo,,Twitter
-226,7,2020,18/08/2020,Diputado,Renato Garín González,30/05/1986,34,Revolución Democrática,RD,Apruebo,,Twitter
-227,7,2020,18/08/2020,Diputado,Catalina Pérez Salinas,18/12/1990,30,Revolución Democrática,RD,Apruebo,,Twitter
-228,7,2020,18/08/2020,Diputado,Pablo Vidal Rojas,24/06/1983,37,Revolución Democrática,RD,Apruebo,,Twitter
-229,7,2020,18/08/2020,Diputado,Gael Yeomans Araya,04/12/1988,32,Revolución Democrática,RD,Apruebo,,Twitter
-230,7,2020,19/08/2020,Diputado,Jorge Brito Hasbún,12/01/1990,30,Revolución Democrática,RD,Apruebo,,Instagram
-231,7,2020,19/08/2020,Diputado,Miguel Crispi Serrano,09/04/1985,35,Revolución Democrática,RD,Apruebo,,Instagram
-232,7,2020,18/08/2020,Diputado,Giorgio Jackson Drago,06/02/1987,33,Revolución Democrática,RD,Apruebo,,Instagram
-233,7,2020,19/08/2020,Diputado,Maite Orsini Pascal,23/02/1988,32,Revolución Democrática,RD,Apruebo,,Instagram
-234,7,2020,19/08/2020,Diputado,Sandra Amar Mancilla,24/11/1955,65,Unión Demócrata Independiente,UDI,Apruebo,06/02/2020,Pauta
-235,7,2020,01/09/2020,Diputado,Nino Baltolú Rasera,28/09/1953,67,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-236,7,2020,,Diputado,Ramón Barros Montero,05/03/1958,62,Unión Demócrata Independiente,UDI,Sin info,,
-237,7,2020,26/08/2020,Diputado,Sergio Bobadilla Muñoz,25/03/1958,62,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-238,7,2020,01/09/2020,Diputado,Álvaro Carter Fernández,09/10/1980,40,Unión Demócrata Independiente,UDI,Reflexión,01/09/2020,Emol
-239,7,2020,,Diputado,Juan Manuel Fuenzalida Cobo,01/07/1973,47,Unión Demócrata Independiente,UDI,Sin info,,
-240,7,2020,,Diputado,Sergio Gahona Salazar,15/09/1965,55,Unión Demócrata Independiente,UDI,Sin info,,
-241,7,2020,,Diputado,Javier Hernández Hernández,07/08/1954,66,Unión Demócrata Independiente,UDI,Sin info,,
-242,7,2020,18/08/2020,Diputado,Maria José Hoffmann Opazo,28/12/1976,44,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-243,7,2020,01/09/2020,Diputado,Isaa Kort Garriga,09/05/1980,40,Unión Demócrata Independiente,UDI,Rechazo,01/09/2020,Emol
-244,7,2020,19/08/2020,Diputado,Joaquín Lavín León,25/05/1979,41,Unión Demócrata Independiente,UDI,Apruebo,06/02/2020,Pauta
-245,7,2020,29/08/2020,Diputado,Javier Macaya Danús,11/11/1978,42,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-246,7,2020,,Diputado,Patricio Melero Abaroa,19/06/1956,64,Unión Demócrata Independiente,UDI,Sin info,,
-247,7,2020,,Diputado,Celso Morales Muñoz,10/07/1957,63,Unión Demócrata Independiente,UDI,Sin info,,
-248,7,2020,,Diputado,Nicolás Noman Garrido,07/05/1981,39,Unión Demócrata Independiente,UDI,Sin info,,
-249,7,2020,,Diputado,Iván Norambuena Farías,04/09/1958,62,Unión Demócrata Independiente,UDI,Sin info,,
-250,7,2020,18/08/2020,Diputado,Guillermo Ramírez Diez,16/04/1979,41,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-251,7,2020,,Diputado,Rolando Rentería Moller,19/08/1968,52,Unión Demócrata Independiente,UDI,Sin info,,
-252,7,2020,29/08/2020,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,54,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-253,7,2020,,Diputado,Renzo Trisotti Martínez,15/03/1976,44,Unión Demócrata Independiente,UDI,Sin info,,
-254,7,2020,,Diputado,Virginia Troncoso Hellman,18/02/1951,69,Unión Demócrata Independiente,UDI,Sin info,,
-255,7,2020,29/08/2020,Diputado,Osvaldo Urrutia Soto,28/11/1951,69,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-256,7,2020,,Diputado,Gastón Von Muhlenbrock Zamora,26/12/1954,66,Unión Demócrata Independiente,UDI,Sin info,,
-257,7,2020,26/08/2020,Diputado,Jorge Alessandri Vergara,08/06/1979,41,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-258,7,2020,,Diputado,Pedro Alvarez-Salamanca Ramírez,18/02/1976,44,Unión Demócrata Independiente,UDI,Sin info,,
-259,7,2020,18/08/2020,Diputado,Juan Antonio Coloma Álamos,14/03/1980,40,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-260,7,2020,01/09/2020,Diputado,Cristián Moreira Barros,05/09/1961,59,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-261,7,2020,26/08/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,63,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
-262,7,2020,29/08/2020,Diputado,Enrique Van Rysselberghe Herrera,17/09/1976,44,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
-263,7,2020,,Diputado,Nora Cuevas Contreras,04/01/1959,61,Unión Demócrata Independiente,UDI,Sin info,,
+id,orden,año,fecha,Cargo,Nombre,fn,edad,Partido,Partido,Estado,fecha_endoso,link
+1,1,12/07/1905,19/08/2020,Presidente,Sebastián Piñera Echeñique,01/12/1949,71,Independiente,IND,Sin info,,
+2,2,12/07/1905,19/08/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,78,Partido Democrata Cristiano,DC,Sin info,,
+3,2,12/07/1905,19/08/2020,Ex Presidente,Ricardo Lagos Escobar,02/03/1938,82,Partido por la Democracia,PPD,Sin info,,
+4,2,12/07/1905,19/08/2020,Ex Presidente,Michelle Bachelet Jeria,29/09/1951,69,Partido Socialista,PS,Sin info,,
+5,3,12/07/1905,18/08/2020,Ministro,Ignacio Briones Rojas,12/12/1972,48,Evolución Política,EVO,Apruebo,15/08/2020,La Tercera
+6,3,12/07/1905,18/08/2020,Ministro,Gloria Hutt Hesse,31/01/1955,65,Evolución Política,EVO,Apruebo,15/08/2020,La Tercera
+7,3,12/07/1905,18/08/2020,Ministro,Karla Rubilar Barahona,17/04/1977,43,Independiente,IND,Apruebo,15/08/2020,La Tercera
+8,3,12/07/1905,18/08/2020,Ministro,María José Zaldívar Larraín,16/09/1975,45,Independiente,IND,Apruebo,15/08/2020,La Tercera
+9,3,12/07/1905,18/08/2020,Ministro,Antonio Walker Prieto,28/06/1961,59,Independiente,IND,Apruebo,15/08/2020,La Tercera
+10,3,12/07/1905,18/08/2020,Ministro,Juan Carlos Jobet Eluchans,14/10/1975,45,Independiente,IND,Apruebo,15/08/2020,La Tercera
+11,3,12/07/1905,18/08/2020,Ministro,Consuelo Valdés Chadwick,09/10/1948,72,Independiente,IND,Apruebo,15/08/2020,La Tercera
+12,3,12/07/1905,18/08/2020,Ministro,Raúl Figueroa Salas,21/03/1975,45,Independiente,IND,Rechazo,15/08/2020,La Tercera
+13,3,12/07/1905,18/08/2020,Ministro,Alfredo Moreno Charme,04/08/1956,64,Independiente,IND,Sin info,,
+14,3,12/07/1905,18/08/2020,Ministro,Enrique Paris Mancilla,03/09/1948,72,Independiente,IND,Sin info,,
+15,3,12/07/1905,18/08/2020,Ministro,Carolina Schmidt Zaldívar,09/09/1967,53,Independiente,IND,Sin info,,
+16,3,12/07/1905,18/08/2020,Ministro,Andrés Couve Correa,23/10/1968,52,Independiente,IND,Sin info,,
+17,3,12/07/1905,18/08/2020,Ministro,Mario Desbordes Jiménez,15/10/1968,52,Renovación Nacional,RN,Apruebo,15/08/2020,La Tercera
+18,3,12/07/1905,18/08/2020,Ministro,Cristián Monckeberg Bruner,12/05/1968,52,Renovación Nacional,RN,Apruebo,15/08/2020,La Tercera
+19,3,12/07/1905,18/08/2020,Ministro,Andrés Allamand Zavala,07/02/1956,64,Renovación Nacional,RN,Rechazo,15/08/2020,La Tercera
+20,3,12/07/1905,18/08/2020,Ministro,Baldo Prokuriça Prokuriça,02/07/1958,62,Renovación Nacional,RN,Rechazo,15/08/2020,La Tercera
+21,3,12/07/1905,18/08/2020,Ministro,Cecilia Pérez Jara,23/09/1974,46,Renovación Nacional,RN,Reflexión,15/08/2020,La Tercera
+22,3,12/07/1905,18/08/2020,Ministro,Lucas Palacios Covarrubias,17/03/1974,46,Unión Demócrata Independiente,UDI,Apruebo,15/08/2020,La Tercera
+23,3,12/07/1905,18/08/2020,Ministro,Jaime Bellolio Avaría,29/11/1980,40,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
+24,3,12/07/1905,18/08/2020,Ministro,Victor Pérez Varela,18/10/1954,66,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
+25,3,12/07/1905,18/08/2020,Ministro,Felipe Ward Edwards ,14/09/1972,48,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
+26,3,12/07/1905,18/08/2020,Ministro,Julio Isamit Díaz,18/02/1989,31,Unión Demócrata Independiente,UDI,Rechazo,15/08/2020,La Tercera
+27,3,12/07/1905,18/08/2020,Ministro,Mónica Zalaquett Said,04/05/1962,58,Unión Demócrata Independiente,UDI,Reflexión,15/08/2020,La Tercera
+28,3,12/07/1905,18/08/2020,Ministro,Hernán Larraín Fernández,21/09/1947,73,Unión Demócrata Independiente,UDI,Sin info,,
+29,4,12/07/1905,,Intendente,Juan Eduardo Prieto ,08/11/1984,36,Evolución Política,EVO,Sin info,,
+30,4,12/07/1905,,Intendente,Geoconda Navarrete Arratia ,08/09/1969,51,Evolución Política,EVO,Sin info,,
+31,4,12/07/1905,,Intendente,Martín Arrau García-Huidobro ,,,Independiente,IND,Sin info,,
+32,4,12/07/1905,,Intendente,César Asenjo Jerez ,,,Independiente,IND,Sin info,,
+33,4,12/07/1905,,Intendente,José Fernández Dübrock ,10/10/1953,67,Independiente,IND,Sin info,,
+34,4,12/07/1905,,Intendente,Edgar Blanco Rand ,,,Renovación Nacional,RN,Sin info,,
+35,4,12/07/1905,,Intendente,Patricio Urquieta García ,15/12/1981,39,Renovación Nacional,RN,Sin info,,
+36,4,12/07/1905,,Intendente,Jorge Martínez Durán ,19/11/1972,48,Renovación Nacional,RN,Sin info,,
+37,4,12/07/1905,,Intendente,Felipe Guevara Stephens ,05/08/1967,53,Renovación Nacional,RN,Sin info,,
+38,4,12/07/1905,,Intendente,Víctor Manoli Nazal ,,,Renovación Nacional,RN,Sin info,,
+39,4,12/07/1905,,Intendente,Harry Jürgensen Caesar,30/05/1949,71,Renovación Nacional,RN,Sin info,,
+40,4,12/07/1905,,Intendente,Miguel Ángel Quezada ,16/10/1969,51,Unión Demócrata Independiente,UDI,Sin info,,
+41,4,12/07/1905,,Intendente,Lucía Pinto Ramírez,18/09/1975,45,Unión Demócrata Independiente,UDI,Sin info,,
+42,4,12/07/1905,,Intendente,Rebeca Cofré Calderón ,23/08/1962,58,Unión Demócrata Independiente,UDI,Sin info,,
+43,4,12/07/1905,,Intendente,Sergio Giacaman García ,07/09/1979,41,Unión Demócrata Independiente,UDI,Sin info,,
+44,4,12/07/1905,,Intendente,Roberto Erpel Seguel ,17/12/1956,64,Unión Demócrata Independiente,UDI,Sin info,,
+45,5,12/07/1905,19/08/2020,Alcalde,Cathy Barriga Guerra,09/04/1973,47,Independiente,IND,Reflexión,02/03/2020,Cambio21
+46,5,12/07/1905,19/08/2020,Alcalde,Rodolfo Carter Fernández,06/06/1971,49,Independiente,IND,Apruebo,02/03/2020,Cambio21
+47,5,12/07/1905,18/08/2020,Alcalde,Jorge Sharp Fajardo,25/03/1985,35,Independiente,IND,Apruebo,,Instagram
+48,5,12/07/1905,19/08/2020,Alcalde,Mauricio Soria Macchiavello,03/03/1969,51,Independiente,IND,Apruebo,02/03/2020,Cambio21
+49,5,12/07/1905,,Alcalde,Omar Sabat Guzmán,,,Independiente,IND,Sin info,,
+50,5,12/07/1905,,Alcalde,Marcos López Rivera,20/03/1957,63,Independiente,IND,Sin info,,
+51,5,12/07/1905,19/08/2020,Alcalde,Marcelo Pereira Peralta,,,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+52,5,12/07/1905,19/08/2020,Alcalde,Álvaro Ortíz Vera,24/10/1977,43,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+53,5,12/07/1905,18/08/2020,Alcalde,Gerardo Espíndola Rojas,23/07/1978,42,Partido Liberal,PL,Apruebo,,Instagram
+54,5,12/07/1905,19/08/2020,Alcalde,Ignacio Pozo Piña,15/08/1994,26,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+55,5,12/07/1905,,Alcalde,Leonel Cádiz Soto,,,Partido Socialista,PS,Sin info,,
+56,5,12/07/1905,26/08/2020,Alcalde,Gervoy Paredes Rojas,,,Partido Socialista,PS,Apruebo,,Twitter
+57,5,12/07/1905,26/08/2020,Alcalde,Alejandro Huala Canumán,,,Partido Socialista,PS,Apruebo,,Hoy Coiaique
+58,5,12/07/1905,19/08/2020,Alcalde,Germán Codina Powers,28/03/1974,46,Renovación Nacional,RN,Apruebo,02/03/2020,Cambio21
+59,5,12/07/1905,19/08/2020,Alcalde,Felipe Alessandri Vergara,04/02/1975,45,Renovación Nacional,RN,Apruebo,17/02/2020,El Mostrador
+60,5,12/07/1905,,Alcalde,Miguel Ángel Becker Alvear,07/10/1960,60,Renovación Nacional,RN,Sin info,,
+61,5,12/07/1905,,Alcalde,Juan Carlos Díaz Avendaño,,,Renovación Nacional,RN,Sin info,,
+62,5,12/07/1905,,Alcalde,Sergio Zarzar Andonie,12/01/1952,68,Renovación Nacional,RN,Sin info,,
+63,5,12/07/1905,,Alcalde,Claudio Radonich,26/03/1976,44,Renovación Nacional,RN,Sin info,,
+64,5,12/07/1905,19/08/2020,Alcalde,Virginia Reginato Bozzo,16/07/1939,81,Unión Demócrata Independiente,UDI,Rechazo,02/03/2020,Cambio21
+65,5,12/07/1905,19/08/2020,Alcalde,Joaquín Lavín Infante,23/10/1953,67,Unión Demócrata Independiente,UDI,Apruebo,05/08/2020,La Tercera
+66,6,12/07/1905,29/08/2020,Senador,Felipe Kast Sommerhoff,09/06/1977,43,Evolución Política,EVO,Apruebo,28/08/2020,La Tercera
+67,6,12/07/1905,29/08/2020,Senador,Carmen Gloria Aravena Acuña,06/01/1967,53,Independiente,IND,Rechazo,,Instagram
+68,6,12/07/1905,18/08/2020,Senador,Juan Castro Prieto,01/11/1959,61,Independiente,IND,Rechazo,07/01/2020,La Tercera
+69,6,12/07/1905,18/08/2020,Senador,Kenneth Pugh Olavarría,22/10/1959,61,Independiente,IND,Rechazo,07/01/2020,La Tercera
+70,6,12/07/1905,29/08/2020,Senador,Carlos Bianchi Chelech,04/11/1960,60,Independiente,IND,Apruebo,,Twitter
+71,6,12/07/1905,18/08/2020,Senador,Alejandro Guillier Álvarez,05/03/1953,67,Independiente,IND,Apruebo,,Instagram
+72,6,12/07/1905,,Senador,Pedro Araya Guerrero,16/06/1974,46,Independiente,IND,Sin info,,
+73,6,12/07/1905,18/08/2020,Senador,Alejandro Navarro Brain,20/11/1958,62,Movimiento Amplio Socialista,MAS,Apruebo,,Instagram
+74,6,12/07/1905,18/08/2020,Senador,Francisco Huenchumilla Jaramillo,22/03/1944,76,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+75,6,12/07/1905,18/08/2020,Senador,Yasna Provoste Campillay,16/12/1969,51,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+76,6,12/07/1905,18/08/2020,Senador,Ximena Rincón González,05/07/1968,52,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+77,6,12/07/1905,19/08/2020,Senador,Carolina Goic Boroevic,20/12/1972,48,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+78,6,12/07/1905,19/08/2020,Senador,Jorge Pizarro Soto,21/04/1952,68,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+79,6,12/07/1905,18/08/2020,Senador,Ricardo Lagos Weber,21/02/1962,58,Partido por la Democracia,PPD,Apruebo,,Instagram
+80,6,12/07/1905,19/08/2020,Senador,Ximena Órdenes Neira,09/03/1973,47,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+81,6,12/07/1905,19/08/2020,Senador,Jaime Quintana Leal,22/10/1967,53,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+82,6,12/07/1905,19/08/2020,Senador,Jorge Soria Quiroga,01/11/1936,84,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+83,6,12/07/1905,19/08/2020,Senador,Guido Girardi Lavín,24/01/1961,59,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+84,6,12/07/1905,19/08/2020,Senador,Felipe Harboe Bascuñán,20/07/1972,48,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+85,6,12/07/1905,19/08/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,72,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+86,6,12/07/1905,19/08/2020,Senador,Álvaro Elizalde Soto,15/10/1969,51,Partido Socialista,PS,Apruebo,19/08/2020,T13
+87,6,12/07/1905,19/08/2020,Senador,José Miguel Insulza Salinas,02/06/1943,77,Partido Socialista,PS,Apruebo,19/08/2020,T13
+88,6,12/07/1905,19/08/2020,Senador,Isabel Allende Bussi,18/01/1945,75,Partido Socialista,PS,Apruebo,19/08/2020,T13
+89,6,12/07/1905,19/08/2020,Senador,Alfonso De Urresti Longton,07/03/1966,54,Partido Socialista,PS,Apruebo,19/08/2020,T13
+90,6,12/07/1905,19/08/2020,Senador,Juan Pablo Letelier Morel,07/01/1961,59,Partido Socialista,PS,Apruebo,19/08/2020,T13
+91,6,12/07/1905,18/08/2020,Senador,Carlos Montes Cisternas,11/05/1946,74,Partido Socialista,PS,Apruebo,,Instagram
+92,6,12/07/1905,19/08/2020,Senador,Rabindranath Quinteros Lara,31/10/1943,77,Partido Socialista,PS,Apruebo,,Twitter
+93,6,12/07/1905,19/08/2020,Senador,Marcela Sabat Fernández,04/04/1981,39,Renovación Nacional,RN,Apruebo,,Instagram
+94,6,12/07/1905,29/08/2020,Senador,Francisco Chahuan Chahuan,20/05/1971,49,Renovación Nacional,RN,Rechazo,,Instagram
+95,6,12/07/1905,18/08/2020,Senador,Rodrigo Galilea Vial,03/11/1966,54,Renovación Nacional,RN,Rechazo,07/01/2020,La Tercera
+96,6,12/07/1905,29/08/2020,Senador,José García Ruminot,22/05/1955,65,Renovación Nacional,RN,Rechazo,,Instagram
+97,6,12/07/1905,18/08/2020,Senador,Rafael Prohens Espinosa,12/06/1955,65,Renovación Nacional,RN,Rechazo,07/01/2020,La Tercera
+98,6,12/07/1905,19/08/2020,Senador,Manuel José Ossandón Irarrázabal,24/08/1962,58,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
+99,6,12/07/1905,18/08/2020,Senador,Juan Ignacio Latorre Riveros,24/03/1978,42,Revolución Democrática,RD,Apruebo,,Twitter
+100,6,12/07/1905,19/08/2020,Senador,José Durana Semir,27/06/1960,60,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
+101,6,12/07/1905,19/08/2020,Senador,Luz Ebensperger Orrego,08/03/1964,56,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
+102,6,12/07/1905,19/08/2020,Senador,David Sandoval Plaza,20/10/1952,68,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
+103,6,12/07/1905,29/08/2020,Senador,Juan Antonio Coloma Correa,15/07/1956,64,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+104,6,12/07/1905,29/08/2020,Senador,Iván Moreira Barros,08/12/1956,64,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+105,6,12/07/1905,29/08/2020,Senador,Ena Von Baer Jahn,28/11/1974,46,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+106,6,12/07/1905,19/08/2020,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,68,Unión Demócrata Independiente,UDI,Rechazo,07/01/2020,La Tercera
+107,6,12/07/1905,18/08/2020,Senador,Jacqueline Van Rysselberghe Herrera,03/02/1965,55,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+108,6,12/07/1905,,Senador,Claudio Alvarado Andrade,07/02/1960,60,Unión Demócrata Independiente,UDI,Sin info,,
+109,7,12/07/1905,18/08/2020,Diputado,Diego Ibáñez Cotroneo,25/01/1989,31,Convergencia Social,CS,Apruebo,,Twitter
+110,7,12/07/1905,18/08/2020,Diputado,Gabriel Boric Font,11/02/1986,34,Convergencia Social,CS,Apruebo,,Instagram
+111,7,12/07/1905,18/08/2020,Diputado,Gonzalo Winter Etcheberry,06/01/1987,33,Convergencia Social,CS,Apruebo,,Instagram
+112,7,12/07/1905,18/08/2020,Diputado,Sebastián Keitel Bianchi,14/02/1973,47,Evolución Política,EVO,Apruebo,24/07/2020,Nuevo Poder
+113,7,12/07/1905,18/08/2020,Diputado,Pablo Kast Sommerhoff,24/08/1973,47,Evolución Política,EVO,Apruebo,24/07/2020,Nuevo Poder
+114,7,12/07/1905,18/08/2020,Diputado,Sebastían Álvarez Ramírez,13/11/1970,50,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
+115,7,12/07/1905,29/08/2020,Diputado,Luciano Cruz-Coke Carvallo,01/07/1970,50,Evolución Política,EVO,Rechazo,,Twitter
+116,7,12/07/1905,18/08/2020,Diputado,Andrés Molina Magofke,17/11/1963,57,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
+117,7,12/07/1905,18/08/2020,Diputado,Francisco Undurraga Gazitúa,29/09/1965,55,Evolución Política,EVO,Rechazo,24/07/2020,La Tercera
+118,7,12/07/1905,18/08/2020,Diputado,Jaime Mulet Martínez,03/08/1963,57,Federación Regionalista Verde Social,FRVS,Apruebo,,Instagram
+119,7,12/07/1905,19/08/2020,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,55,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
+120,7,12/07/1905,19/08/2020,Diputado,Pedro Velasquez Seguel,05/08/1964,56,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
+121,7,12/07/1905,19/08/2020,Diputado,Esteban Velásquez Núñez,26/12/1962,58,Federación Regionalista Verde Social,FRVS,Apruebo,19/08/2020,T13
+122,7,12/07/1905,18/08/2020,Diputado,Karim Bianchi Retamales,31/01/1983,37,Independiente,IND,Apruebo,,Instagram
+123,7,12/07/1905,,Diputado,Rene Saffirio Espinoza,09/10/1955,65,Independiente,IND,Sin info,,
+124,7,12/07/1905,18/08/2020,Diputado,Camila Vallejo Dowling,28/04/1988,32,Partido Comunista de Chile,PC,Apruebo,,Twitter
+125,7,12/07/1905,18/08/2020,Diputado,Karol Cariola Oliva,01/04/1987,33,Partido Comunista de Chile,PC,Apruebo,,Instagram
+126,7,12/07/1905,18/08/2020,Diputado,Boris Barrera Moreno,03/05/1970,50,Partido Comunista de Chile,PC,Apruebo,,Instagram
+127,7,12/07/1905,18/08/2020,Diputado,Hugo Gutiérrez Gálvez,05/10/1961,59,Partido Comunista de Chile,PC,Apruebo,,Instagram
+128,7,12/07/1905,18/08/2020,Diputado,Carmen Hertz Cádiz,19/06/1945,75,Partido Comunista de Chile,PC,Apruebo,,Instagram
+129,7,12/07/1905,18/08/2020,Diputado,Amaro Labra Sepúlveda,25/10/1949,71,Partido Comunista de Chile,PC,Apruebo,,Instagram
+130,7,12/07/1905,18/08/2020,Diputado,Daniel Núñez Arancibia,07/01/1971,49,Partido Comunista de Chile,PC,Apruebo,,Instagram
+131,7,12/07/1905,19/08/2020,Diputado,Guillermo Teillier del Valle,29/10/1943,77,Partido Comunista de Chile,PC,Apruebo,19/08/2020,T13
+132,7,12/07/1905,18/08/2020,Diputado,Gabriel Ascencio Mansilla,25/10/1953,67,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+133,7,12/07/1905,19/08/2020,Diputado,Miguel Calisto Águila,19/07/1985,35,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+134,7,12/07/1905,19/08/2020,Diputado,Iván Flores García,15/06/1955,65,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+135,7,12/07/1905,19/08/2020,Diputado,Manuel Matta Aragay,10/11/1946,74,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+136,7,12/07/1905,19/08/2020,Diputado,José Miguel Ortiz Novoa,22/11/1941,79,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+137,7,12/07/1905,19/08/2020,Diputado,Joanna Pérez Olea,01/04/1976,44,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+138,7,12/07/1905,18/08/2020,Diputado,Gabriel Silber Romo,15/09/1976,44,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+139,7,12/07/1905,19/08/2020,Diputado,Raúl Soto Mardones,20/11/1987,33,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+140,7,12/07/1905,19/08/2020,Diputado,Víctor Torres Jeldes,11/10/1975,45,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+141,7,12/07/1905,19/08/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,63,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+142,7,12/07/1905,19/08/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,68,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+143,7,12/07/1905,19/08/2020,Diputado,Pablo Lorenzini Basso,25/10/1949,71,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+144,7,12/07/1905,19/08/2020,Diputado,Jorge Sabag Villalobos,26/12/1963,57,Partido Democrata Cristiano,DC,Apruebo,19/08/2020,T13
+145,7,12/07/1905,18/08/2020,Diputado,Matias Walker Prieto,19/07/1973,47,Partido Democrata Cristiano,DC,Apruebo,,Instagram
+146,7,12/07/1905,19/08/2020,Diputado,Félix González Gatica,26/05/1972,48,Partido Ecologista Verde,PEV,Apruebo,26/02/2020,Cooperativa
+147,7,12/07/1905,19/08/2020,Diputado,Raúl Florcita Alarcón Rojas,15/10/1945,75,Partido Humanista,PH,Apruebo,18/12/2019,Agricultura
+148,7,12/07/1905,18/08/2020,Diputado,Tomás Hirsch Goldschmidt,19/07/1956,64,Partido Humanista,PH,Apruebo,,Instagram
+149,7,12/07/1905,18/08/2020,Diputado,Pamela Jiles Moreno,30/11/1960,60,Partido Humanista,PH,Apruebo,,Instagram
+150,7,12/07/1905,18/08/2020,Diputado,Camila Rojas Valderrama,11/03/1991,29,Partido Igualdad,PI,Apruebo,,Twitter
+151,7,12/07/1905,18/08/2020,Diputado,Alejandro Bernales Maldonado,02/02/1979,41,Partido Liberal,PL,Apruebo,,Instagram
+152,7,12/07/1905,18/08/2020,Diputado,Vlado Mirosevic Verdugo,23/05/1987,33,Partido Liberal,PL,Apruebo,,Instagram
+153,7,12/07/1905,18/08/2020,Diputado,Claudia Mix Jiménez,13/07/1969,51,Partido Poder Ciudadano,PPC,Apruebo,,Instagram
+154,7,12/07/1905,19/08/2020,Diputado,René Alinco Bustos,02/06/1958,62,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+155,7,12/07/1905,19/08/2020,Diputado,Loreto Carvajal Ambiado,18/05/1973,47,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+156,7,12/07/1905,18/08/2020,Diputado,Ricardo Celis Araya,11/07/1955,65,Partido por la Democracia,PPD,Apruebo,,Instagram
+157,7,12/07/1905,19/08/2020,Diputado,Rodrigo González Torres,26/09/1941,79,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+158,7,12/07/1905,19/08/2020,Diputado,Tucapel Jiménez Fuentes,01/09/1962,58,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+159,7,12/07/1905,18/08/2020,Diputado,Carolina Marzán Pinto,22/12/1963,57,Partido por la Democracia,PPD,Apruebo,,Instagram
+160,7,12/07/1905,19/08/2020,Diputado,Andrea Parra Sauterel,02/09/1967,53,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+161,7,12/07/1905,19/08/2020,Diputado,Cristina Girardi Lavín,09/01/1962,58,Partido por la Democracia,PPD,Apruebo,19/08/2020,T13
+162,7,12/07/1905,19/08/2020,Diputado,Marisela Santibáñez Novoa,24/04/1975,45,Partido Comunista de Chile,PC,Apruebo,12/08/2020,Pauta
+163,7,12/07/1905,19/08/2020,Diputado,Pepe Auth Stewart,06/03/1957,63,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+164,7,12/07/1905,19/08/2020,Diputado,Marcela Hernando Pérez,12/02/1960,60,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+165,7,12/07/1905,19/08/2020,Diputado,Cosme Mellado Pino,24/02/1960,60,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+166,7,12/07/1905,19/08/2020,Diputado,Fernando Meza Moncada,14/07/1946,74,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+167,7,12/07/1905,19/08/2020,Diputado,José Pérez Arriagada,29/12/1940,80,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+168,7,12/07/1905,19/08/2020,Diputado,Alexis Sepúlveda Soto,29/12/1969,51,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+169,7,12/07/1905,19/08/2020,Diputado,Carlos Abel Jarpa Wevar,14/11/1944,76,Partido Radical Socialdemócrata,PR,Apruebo,12/08/2020,Pauta
+170,7,12/07/1905,18/08/2020,Diputado,Marcelo Díaz Díaz,06/02/1971,49,Partido Socialista,PS,Apruebo,,Twitter
+171,7,12/07/1905,19/08/2020,Diputado,Jenny Álvarez Vera,30/03/1974,46,Partido Socialista,PS,Apruebo,19/08/2020,T13
+172,7,12/07/1905,19/08/2020,Diputado,Juan Luis Castro González,18/04/1960,60,Partido Socialista,PS,Apruebo,19/08/2020,T13
+173,7,12/07/1905,19/08/2020,Diputado,Daniella Cicardini Milla,31/12/1987,33,Partido Socialista,PS,Apruebo,19/08/2020,T13
+174,7,12/07/1905,19/08/2020,Diputado,Fidel Espinoza Sandoval,24/01/1970,50,Partido Socialista,PS,Apruebo,19/08/2020,T13
+175,7,12/07/1905,18/08/2020,Diputado,Marcos Ilabaca Cerda,05/10/1970,50,Partido Socialista,PS,Apruebo,,Instagram
+176,7,12/07/1905,19/08/2020,Diputado,Raúl Leiva Carvajal,24/03/1974,46,Partido Socialista,PS,Apruebo,19/08/2020,T13
+177,7,12/07/1905,19/08/2020,Diputado,Manuel Monsalve Benavides,09/06/1965,55,Partido Socialista,PS,Apruebo,19/08/2020,T13
+178,7,12/07/1905,18/08/2020,Diputado,Jaime Naranjo Ortiz,12/01/1951,69,Partido Socialista,PS,Apruebo,,Instagram
+179,7,12/07/1905,19/08/2020,Diputado,Emilia Nuyado Ancapichún,17/08/1968,52,Partido Socialista,PS,Apruebo,19/08/2020,T13
+180,7,12/07/1905,18/08/2020,Diputado,Luis Rocafull López,17/09/1958,62,Partido Socialista,PS,Apruebo,,Instagram
+181,7,12/07/1905,19/08/2020,Diputado,Patricio Rosas Barrientos,06/05/1968,52,Partido Socialista,PS,Apruebo,19/08/2020,T13
+182,7,12/07/1905,19/08/2020,Diputado,Gastón Saavedra Chandía,22/11/1955,65,Partido Socialista,PS,Apruebo,19/08/2020,T13
+183,7,12/07/1905,19/08/2020,Diputado,Raúl Saldívar Auger,02/06/1951,69,Partido Socialista,PS,Apruebo,19/08/2020,T13
+184,7,12/07/1905,18/08/2020,Diputado,Juan Rubén Santana,20/09/1989,31,Partido Socialista,PS,Apruebo,,Instagram
+185,7,12/07/1905,19/08/2020,Diputado,Marcelo Schilling Rodríguez,18/05/1949,71,Partido Socialista,PS,Apruebo,19/08/2020,T13
+186,7,12/07/1905,19/08/2020,Diputado,Leonardo Soto Ferrada,15/05/1966,54,Partido Socialista,PS,Apruebo,19/08/2020,T13
+187,7,12/07/1905,18/08/2020,Diputado,Maya Fernández Allende,27/09/1971,49,Partido Socialista,PS,Apruebo,,Instagram
+188,7,12/07/1905,19/08/2020,Diputado,Jaime Tohá González,16/06/1938,82,Partido Socialista,PS,Apruebo,19/08/2020,T13
+189,7,12/07/1905,18/08/2020,Diputado,Francesca Muñoz González,07/03/1980,40,Renovación Nacional,RN,Rechazo,,Twitter
+190,7,12/07/1905,19/08/2020,Diputado,Bernardo Berger Fett,04/10/1946,74,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
+191,7,12/07/1905,26/08/2020,Diputado,José Miguel Castro Bascuñan,05/08/1974,46,Renovación Nacional,RN,Rechazo,,Instagram
+192,7,12/07/1905,29/08/2020,Diputado,Andrés Celis Montt,08/04/1975,45,Renovación Nacional,RN,Apruebo,,Twitter
+193,7,12/07/1905,29/08/2020,Diputado,Sofía Cid Versalovic,29/09/1971,49,Renovación Nacional,RN,Rechazo,,Instagram
+194,7,12/07/1905,19/08/2020,Diputado,Catalina Del Real Mihovilovic,07/11/1968,52,Renovación Nacional,RN,Rechazo,14/03/2020,Bío Bío
+195,7,12/07/1905,19/08/2020,Diputado,Eduardo Durán Salinas,01/01/1972,48,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
+196,7,12/07/1905,29/08/2020,Diputado,Jorge Durán Espinosa,17/12/1980,40,Renovación Nacional,RN,Apruebo,,Twitter
+197,7,12/07/1905,01/09/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,53,Renovación Nacional,RN,Rechazo,,Twitter
+198,7,12/07/1905,18/08/2020,Diputado,Camila Flores Oporto,09/02/1987,33,Renovación Nacional,RN,Rechazo,,Instagram
+199,7,12/07/1905,29/08/2020,Diputado,Gonzalo Fuenzalida Figueroa,18/06/1973,47,Renovación Nacional,RN,Reflexión,,El Libero
+200,7,12/07/1905,,Diputado,Ramón Galleguillos Castillo,26/07/1953,67,Renovación Nacional,RN,Sin info,,
+201,7,12/07/1905,,Diputado,René Manuel García Garcia,24/05/1950,70,Renovación Nacional,RN,Sin info,,
+202,7,12/07/1905,04/09/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,67,Renovación Nacional,RN,Rechazo,,Twitter
+203,7,12/07/1905,19/08/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,40,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
+204,7,12/07/1905,19/08/2020,Diputado,Karin Luck Urban,19/07/1971,49,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
+205,7,12/07/1905,19/08/2020,Diputado,Miguel Mellado Suazo,29/12/1958,62,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
+206,7,12/07/1905,29/08/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,44,Renovación Nacional,RN,Apruebo,,Twitter
+207,7,12/07/1905,19/08/2020,Diputado,Luis Pardo Sáinz,13/12/1960,60,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
+208,7,12/07/1905,19/08/2020,Diputado,Diego Paulsen Kehr,01/08/1987,33,Renovación Nacional,RN,Rechazo,09/01/2020,La Tercera
+209,7,12/07/1905,29/08/2020,Diputado,Paulina Núñez Urrutia,30/12/1982,38,Renovación Nacional,RN,Apruebo,,Instagram
+210,7,12/07/1905,,Diputado,Leopoldo Pérez Lahsen,28/03/1957,63,Renovación Nacional,RN,Sin info,,
+211,7,12/07/1905,,Diputado,Pablo Prieto Lorca,04/05/1959,61,Renovación Nacional,RN,Sin info,,
+212,7,12/07/1905,19/08/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,53,Renovación Nacional,RN,Rechazo,31/01/2020,CNN
+213,7,12/07/1905,19/08/2020,Diputado,Hugo Rey Martínez,06/12/1973,47,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
+214,7,12/07/1905,26/08/2020,Diputado,Leonidas Romero Saéz,15/10/1955,65,Renovación Nacional,RN,Rechazo,,Instagram
+215,7,12/07/1905,,Diputado,Alejandro Santana Tirachini,18/07/1965,55,Renovación Nacional,RN,Sin info,,
+216,7,12/07/1905,,Diputado,Frank Sauerbaum Muñoz,21/11/1972,48,Renovación Nacional,RN,Sin info,,
+217,7,12/07/1905,18/08/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,35,Renovación Nacional,RN,Rechazo,,Instagram
+218,7,12/07/1905,19/08/2020,Diputado,Sebastián Torrealba Alvarado,06/02/1981,39,Renovación Nacional,RN,Rechazo,,Instagram
+219,7,12/07/1905,29/08/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,45,Renovación Nacional,RN,Rechazo,,Twitter
+220,7,12/07/1905,29/08/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,52,Renovación Nacional,RN,Rechazo,,Instagram
+221,7,12/07/1905,19/08/2020,Diputado,Andrés Longton Herrera,26/05/1982,38,Renovación Nacional,RN,Apruebo,14/03/2020,Bío Bío
+222,7,12/07/1905,26/08/2020,Diputado,Ximena Ossandón Irarrázaval,13/12/1963,57,Renovación Nacional,RN,Apruebo,,El Mostrador
+223,7,12/07/1905,26/08/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,30,Renovación Nacional,RN,Apruebo,,Instagram
+224,7,12/07/1905,26/08/2020,Diputado,Tomás Fuentes Barros,10/03/1985,35,Renovación Nacional,RN,Rechazo,,Instagram
+225,7,12/07/1905,18/08/2020,Diputado,Natalia Castillo Muñoz,01/08/1982,38,Revolución Democrática,RD,Apruebo,,Twitter
+226,7,12/07/1905,18/08/2020,Diputado,Renato Garín González,30/05/1986,34,Revolución Democrática,RD,Apruebo,,Twitter
+227,7,12/07/1905,18/08/2020,Diputado,Catalina Pérez Salinas,18/12/1990,30,Revolución Democrática,RD,Apruebo,,Twitter
+228,7,12/07/1905,18/08/2020,Diputado,Pablo Vidal Rojas,24/06/1983,37,Revolución Democrática,RD,Apruebo,,Twitter
+229,7,12/07/1905,18/08/2020,Diputado,Gael Yeomans Araya,04/12/1988,32,Revolución Democrática,RD,Apruebo,,Twitter
+230,7,12/07/1905,19/08/2020,Diputado,Jorge Brito Hasbún,12/01/1990,30,Revolución Democrática,RD,Apruebo,,Instagram
+231,7,12/07/1905,19/08/2020,Diputado,Miguel Crispi Serrano,09/04/1985,35,Revolución Democrática,RD,Apruebo,,Instagram
+232,7,12/07/1905,18/08/2020,Diputado,Giorgio Jackson Drago,06/02/1987,33,Revolución Democrática,RD,Apruebo,,Instagram
+233,7,12/07/1905,19/08/2020,Diputado,Maite Orsini Pascal,23/02/1988,32,Revolución Democrática,RD,Apruebo,,Instagram
+234,7,12/07/1905,19/08/2020,Diputado,Sandra Amar Mancilla,24/11/1955,65,Unión Demócrata Independiente,UDI,Apruebo,06/02/2020,Pauta
+235,7,12/07/1905,01/09/2020,Diputado,Nino Baltolú Rasera,28/09/1953,67,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+236,7,12/07/1905,,Diputado,Ramón Barros Montero,05/03/1958,62,Unión Demócrata Independiente,UDI,Sin info,,
+237,7,12/07/1905,26/08/2020,Diputado,Sergio Bobadilla Muñoz,25/03/1958,62,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+238,7,12/07/1905,01/09/2020,Diputado,Álvaro Carter Fernández,09/10/1980,40,Unión Demócrata Independiente,UDI,Reflexión,01/09/2020,Emol
+239,7,12/07/1905,,Diputado,Juan Manuel Fuenzalida Cobo,01/07/1973,47,Unión Demócrata Independiente,UDI,Sin info,,
+240,7,12/07/1905,,Diputado,Sergio Gahona Salazar,15/09/1965,55,Unión Demócrata Independiente,UDI,Sin info,,
+241,7,12/07/1905,,Diputado,Javier Hernández Hernández,07/08/1954,66,Unión Demócrata Independiente,UDI,Sin info,,
+242,7,12/07/1905,18/08/2020,Diputado,Maria José Hoffmann Opazo,28/12/1976,44,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+243,7,12/07/1905,01/09/2020,Diputado,Isaa Kort Garriga,09/05/1980,40,Unión Demócrata Independiente,UDI,Rechazo,01/09/2020,Emol
+244,7,12/07/1905,19/08/2020,Diputado,Joaquín Lavín León,25/05/1979,41,Unión Demócrata Independiente,UDI,Apruebo,06/02/2020,Pauta
+245,7,12/07/1905,29/08/2020,Diputado,Javier Macaya Danús,11/11/1978,42,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+246,7,12/07/1905,,Diputado,Patricio Melero Abaroa,19/06/1956,64,Unión Demócrata Independiente,UDI,Sin info,,
+247,7,12/07/1905,,Diputado,Celso Morales Muñoz,10/07/1957,63,Unión Demócrata Independiente,UDI,Sin info,,
+248,7,12/07/1905,,Diputado,Nicolás Noman Garrido,07/05/1981,39,Unión Demócrata Independiente,UDI,Sin info,,
+249,7,12/07/1905,,Diputado,Iván Norambuena Farías,04/09/1958,62,Unión Demócrata Independiente,UDI,Sin info,,
+250,7,12/07/1905,18/08/2020,Diputado,Guillermo Ramírez Diez,16/04/1979,41,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+251,7,12/07/1905,,Diputado,Rolando Rentería Moller,19/08/1968,52,Unión Demócrata Independiente,UDI,Sin info,,
+252,7,12/07/1905,29/08/2020,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,54,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+253,7,12/07/1905,,Diputado,Renzo Trisotti Martínez,15/03/1976,44,Unión Demócrata Independiente,UDI,Sin info,,
+254,7,12/07/1905,,Diputado,Virginia Troncoso Hellman,18/02/1951,69,Unión Demócrata Independiente,UDI,Sin info,,
+255,7,12/07/1905,29/08/2020,Diputado,Osvaldo Urrutia Soto,28/11/1951,69,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+256,7,12/07/1905,,Diputado,Gastón Von Muhlenbrock Zamora,26/12/1954,66,Unión Demócrata Independiente,UDI,Sin info,,
+257,7,12/07/1905,26/08/2020,Diputado,Jorge Alessandri Vergara,08/06/1979,41,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+258,7,12/07/1905,,Diputado,Pedro Alvarez-Salamanca Ramírez,18/02/1976,44,Unión Demócrata Independiente,UDI,Sin info,,
+259,7,12/07/1905,18/08/2020,Diputado,Juan Antonio Coloma Álamos,14/03/1980,40,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+260,7,12/07/1905,01/09/2020,Diputado,Cristián Moreira Barros,05/09/1961,59,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+261,7,12/07/1905,26/08/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,63,Unión Demócrata Independiente,UDI,Rechazo,,Twitter
+262,7,12/07/1905,29/08/2020,Diputado,Enrique Van Rysselberghe Herrera,17/09/1976,44,Unión Demócrata Independiente,UDI,Rechazo,,Instagram
+263,7,12/07/1905,,Diputado,Nora Cuevas Contreras,04/01/1959,61,Unión Demócrata Independiente,UDI,Sin info,,
