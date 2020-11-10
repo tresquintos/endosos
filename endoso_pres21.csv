@@ -1,31 +1,38 @@
 ﻿id,orden,fecha,Cargo,Nombre,fn,edad,Partido,Partido,registro,Candidato,fecha_endoso,link,link
-1,7,28/10/2020,Diputado,Andrés Celis Montt,08/04/1975,45,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-2,7,28/10/2020,Diputado,Jorge Durán Espinosa,17/12/1980,40,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-3,7,28/10/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,53,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-4,7,28/10/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,44,Independiente,IND,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-5,7,28/10/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,53,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-6,7,28/10/2020,Diputado,Hugo Rey Martínez,06/12/1973,47,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-7,7,28/10/2020,Diputado,Andrés Longton Herrera,26/05/1982,38,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-8,7,28/10/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,30,Renovación Nacional,RN,1,Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-9,6,28/10/2020,Senador,Yasna Provoste Campillay,16/12/1969,51,Partido Democrata Cristiano,DC,1,Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-10,7,28/10/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,63,Partido Democrata Cristiano,DC,1,Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-11,7,28/10/2020,Diputado,Francesca Muñoz González,07/03/1980,40,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-12,7,28/10/2020,Diputado,Eduardo Durán Salinas,01/01/1972,48,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-13,7,28/10/2020,Diputado,Camila Flores Oporto,09/02/1987,33,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-14,7,28/10/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,67,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-15,7,28/10/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,40,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-16,7,28/10/2020,Diputado,Miguel Mellado Suazo,29/12/1958,62,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-17,7,28/10/2020,Diputado,Pablo Prieto Lorca,04/05/1959,61,Independiente,IND,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-18,7,28/10/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,45,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-19,7,28/10/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,52,Renovación Nacional,RN,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-20,7,28/10/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,63,Partido Republicano,PREP,1,Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-21,7,28/10/2020,Diputado,Miguel Calisto Águila,19/07/1985,35,Partido Democrata Cristiano,DC,1,Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-22,7,28/10/2020,Diputado,Gabriel Silber Romo,15/09/1976,44,Partido Democrata Cristiano,DC,1,Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-23,7,28/10/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,68,Partido Democrata Cristiano,DC,1,Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-24,7,28/10/2020,Diputado,Karin Luck Urban,19/07/1971,49,Renovación Nacional,RN,1,Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-25,7,28/10/2020,Diputado,Luis Pardo Sáinz,13/12/1960,60,Renovación Nacional,RN,1,Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-26,7,28/10/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,35,Renovación Nacional,RN,1,Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-27,7,28/10/2020,Diputado,Tomás Fuentes Barros,10/03/1985,35,Renovación Nacional,RN,1,Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+1,7,28/10/2020,Diputado,Andrés Celis Montt,08/04/1975,45,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+2,7,28/10/2020,Diputado,Jorge Durán Espinosa,17/12/1980,40,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+3,7,28/10/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,53,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+4,7,28/10/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,44,Independiente,IND,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+5,7,28/10/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,53,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+6,7,28/10/2020,Diputado,Hugo Rey Martínez,06/12/1973,47,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+7,7,28/10/2020,Diputado,Andrés Longton Herrera,26/05/1982,38,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+8,7,28/10/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,30,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+9,6,28/10/2020,Senador,Yasna Provoste Campillay,16/12/1969,51,Partido Democrata Cristiano,DC,1,F. Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+10,7,28/10/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,63,Partido Democrata Cristiano,DC,1,F. Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+11,7,28/10/2020,Diputado,Francesca Muñoz González,07/03/1980,40,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+12,7,28/10/2020,Diputado,Eduardo Durán Salinas,01/01/1972,48,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+13,7,28/10/2020,Diputado,Camila Flores Oporto,09/02/1987,33,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+14,7,28/10/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,67,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+15,7,28/10/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,40,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+16,7,28/10/2020,Diputado,Miguel Mellado Suazo,29/12/1958,62,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+17,7,28/10/2020,Diputado,Pablo Prieto Lorca,04/05/1959,61,Independiente,IND,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+18,7,28/10/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,45,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+19,7,28/10/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,52,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+20,7,28/10/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,63,Partido Republicano,PREP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+106,6,28/10/2020,Senador,Ximena Órdenes Neira,09/03/1973,47,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+107,6,28/10/2020,Senador,Jaime Quintana Leal,22/10/1967,53,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+111,6,28/10/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,72,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+163,7,28/10/2020,Diputado,Raúl Soto Mardones,20/11/1987,33,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+178,7,28/10/2020,Diputado,Ricardo Celis Araya,11/07/1955,65,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+180,7,28/10/2020,Diputado,Tucapel Jiménez Fuentes,01/09/1962,58,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+21,7,28/10/2020,Diputado,Miguel Calisto Águila,19/07/1985,35,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+22,7,28/10/2020,Diputado,Gabriel Silber Romo,15/09/1976,44,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+23,7,28/10/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,68,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+24,7,28/10/2020,Diputado,Karin Luck Urban,19/07/1971,49,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+25,7,28/10/2020,Diputado,Luis Pardo Sáinz,13/12/1960,60,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+26,7,28/10/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,35,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+27,7,28/10/2020,Diputado,Tomás Fuentes Barros,10/03/1985,35,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+179,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,79,Partido por la Democracia,PPD,1,F. Vidal,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 28,1,28/10/2020,Presidente,Sebastián Piñera Echeñique,01/12/1949,71,Independiente,IND,0,,,,
 29,2,28/10/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,78,Partido Democrata Cristiano,DC,0,,,,
 30,2,28/10/2020,Ex Presidente,Ricardo Lagos Escobar,02/03/1938,82,Partido por la Democracia,PPD,0,,,,
@@ -104,12 +111,9 @@
 103,6,28/10/2020,Senador,Carolina Goic Boroevic,20/12/1972,48,Partido Democrata Cristiano,DC,0,,,,
 104,6,28/10/2020,Senador,Jorge Pizarro Soto,21/04/1952,68,Partido Democrata Cristiano,DC,0,,,,
 105,6,28/10/2020,Senador,Ricardo Lagos Weber,21/02/1962,58,Partido por la Democracia,PPD,0,,,,
-106,6,28/10/2020,Senador,Ximena Órdenes Neira,09/03/1973,47,Independiente,IND,0,,,,
-107,6,28/10/2020,Senador,Jaime Quintana Leal,22/10/1967,53,Partido por la Democracia,PPD,0,,,,
 108,6,28/10/2020,Senador,Jorge Soria Quiroga,01/11/1936,84,Partido por la Democracia,PPD,0,,,,
 109,6,28/10/2020,Senador,Guido Girardi Lavín,24/01/1961,59,Partido por la Democracia,PPD,0,,,,
 110,6,28/10/2020,Senador,Felipe Harboe Bascuñán,20/07/1972,48,Partido por la Democracia,PPD,0,,,,
-111,6,28/10/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,72,Partido por la Democracia,PPD,0,,,,
 112,6,28/10/2020,Senador,Álvaro Elizalde Soto,15/10/1969,51,Partido Socialista,PS,0,,,,
 113,6,28/10/2020,Senador,José Miguel Insulza Salinas,02/06/1943,77,Partido Socialista,PS,0,,,,
 114,6,28/10/2020,Senador,Isabel Allende Bussi,18/01/1945,75,Partido Socialista,PS,0,,,,
@@ -161,7 +165,6 @@
 160,7,28/10/2020,Diputado,Manuel Matta Aragay,10/11/1946,74,Partido Democrata Cristiano,DC,0,,,,
 161,7,28/10/2020,Diputado,José Miguel Ortiz Novoa,22/11/1941,79,Partido Democrata Cristiano,DC,0,,,,
 162,7,28/10/2020,Diputado,Joanna Pérez Olea,01/04/1976,44,Partido Democrata Cristiano,DC,0,,,,
-163,7,28/10/2020,Diputado,Raúl Soto Mardones,20/11/1987,33,Independiente,IND,0,,,,
 164,7,28/10/2020,Diputado,Víctor Torres Jeldes,11/10/1975,45,Partido Democrata Cristiano,DC,0,,,,
 165,7,28/10/2020,Diputado,Pablo Lorenzini Basso,25/10/1949,71,Independiente,IND,0,,,,
 166,7,28/10/2020,Diputado,Jorge Sabag Villalobos,26/12/1963,57,Partido Democrata Cristiano,DC,0,,,,
@@ -176,9 +179,6 @@
 175,7,28/10/2020,Diputado,Claudia Mix Jiménez,13/07/1969,51,Comunes,Comunes,0,,,,
 176,7,28/10/2020,Diputado,René Alinco Bustos,02/06/1958,62,Independiente,IND,0,,,,
 177,7,28/10/2020,Diputado,Loreto Carvajal Ambiado,18/05/1973,47,Partido por la Democracia,PPD,0,,,,
-178,7,28/10/2020,Diputado,Ricardo Celis Araya,11/07/1955,65,Partido por la Democracia,PPD,0,,,,
-179,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,79,Partido por la Democracia,PPD,0,,,,
-180,7,28/10/2020,Diputado,Tucapel Jiménez Fuentes,01/09/1962,58,Partido por la Democracia,PPD,0,,,,
 181,7,28/10/2020,Diputado,Carolina Marzán Pinto,22/12/1963,57,Partido por la Democracia,PPD,0,,,,
 182,7,28/10/2020,Diputado,Andrea Parra Sauterel,02/09/1967,53,Partido por la Democracia,PPD,0,,,,
 183,7,28/10/2020,Diputado,Cristina Girardi Lavín,09/01/1962,58,Partido por la Democracia,PPD,0,,,,
