@@ -1,4 +1,14 @@
 ﻿id,orden,fecha,Cargo,Nombre,fn,edad,Partido,Partido,registro,Candidato,fecha_endoso,link,link
+204,7,28/10/2020,Diputado,Gastón Saavedra Chandía,22/11/1955,65,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+200,7,28/10/2020,Diputado,Jaime Naranjo Ortiz,12/01/1951,69,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+193,7,28/10/2020,Diputado,Jenny Álvarez Vera,30/03/1974,46,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+194,7,28/10/2020,Diputado,Juan Luis Castro González,18/04/1960,60,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+206,7,28/10/2020,Diputado,Juan Rubén Santana,20/09/1989,31,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+208,7,28/10/2020,Diputado,Leonardo Soto Ferrada,15/05/1966,54,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+199,7,28/10/2020,Diputado,Manuel Monsalve Benavides,09/06/1965,55,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+207,7,28/10/2020,Diputado,Marcelo Schilling Rodríguez,18/05/1949,71,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+197,7,28/10/2020,Diputado,Marcos Ilabaca Cerda,05/10/1970,50,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+198,7,28/10/2020,Diputado,Raúl Leiva Carvajal,24/03/1974,46,Partido Socialista,PS,1,A. Elizalde,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
 9,6,28/10/2020,Senador,Yasna Provoste Campillay,16/12/1969,51,Partido Democrata Cristiano,DC,1,F. Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
 10,7,28/10/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,63,Partido Democrata Cristiano,DC,1,F. Huenchumilla,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
 179,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,79,Partido por la Democracia,PPD,1,F. Vidal,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
@@ -202,19 +212,9 @@
 195,7,28/10/2020,Diputado,Daniella Cicardini Milla,31/12/1987,33,Partido Socialista,PS,0,,,,
 201,7,28/10/2020,Diputado,Emilia Nuyado Ancapichún,17/08/1968,52,Partido Socialista,PS,0,,,,
 196,7,28/10/2020,Diputado,Fidel Espinoza Sandoval,24/01/1970,50,Partido Socialista,PS,0,,,,
-204,7,28/10/2020,Diputado,Gastón Saavedra Chandía,22/11/1955,65,Partido Socialista,PS,0,,,,
-200,7,28/10/2020,Diputado,Jaime Naranjo Ortiz,12/01/1951,69,Partido Socialista,PS,0,,,,
 210,7,28/10/2020,Diputado,Jaime Tohá González,16/06/1938,82,Partido Socialista,PS,0,,,,
-193,7,28/10/2020,Diputado,Jenny Álvarez Vera,30/03/1974,46,Partido Socialista,PS,0,,,,
-194,7,28/10/2020,Diputado,Juan Luis Castro González,18/04/1960,60,Partido Socialista,PS,0,,,,
-206,7,28/10/2020,Diputado,Juan Rubén Santana,20/09/1989,31,Partido Socialista,PS,0,,,,
-208,7,28/10/2020,Diputado,Leonardo Soto Ferrada,15/05/1966,54,Partido Socialista,PS,0,,,,
 202,7,28/10/2020,Diputado,Luis Rocafull López,17/09/1958,62,Partido Socialista,PS,0,,,,
-199,7,28/10/2020,Diputado,Manuel Monsalve Benavides,09/06/1965,55,Partido Socialista,PS,0,,,,
-207,7,28/10/2020,Diputado,Marcelo Schilling Rodríguez,18/05/1949,71,Partido Socialista,PS,0,,,,
-197,7,28/10/2020,Diputado,Marcos Ilabaca Cerda,05/10/1970,50,Partido Socialista,PS,0,,,,
 209,7,28/10/2020,Diputado,Maya Fernández Allende,27/09/1971,49,Partido Socialista,PS,0,,,,
-198,7,28/10/2020,Diputado,Raúl Leiva Carvajal,24/03/1974,46,Partido Socialista,PS,0,,,,
 205,7,28/10/2020,Diputado,Raúl Saldívar Auger,02/06/1951,69,Partido Socialista,PS,0,,,,
 228,7,28/10/2020,Diputado,Catalina Pérez Salinas,18/12/1990,30,Revolución Democrática,RD,0,,,,
 233,7,28/10/2020,Diputado,Giorgio Jackson Drago,06/02/1987,33,Revolución Democrática,RD,0,,,,
