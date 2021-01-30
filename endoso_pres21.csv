@@ -1,4 +1,9 @@
 ﻿id,orden,fecha,Cargo,Nombre,fn,edad,Partido,Partido,registro,Candidato,fecha_endoso,link,link
+81,5,28/10/2020,Alcalde,Ignacio Pozo Piña,15/08/1994,27,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+189,7,28/10/2020,Diputado,José Pérez Arriagada,29/12/1940,81,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+187,7,28/10/2020,Diputado,Cosme Mellado Pino,24/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+186,7,28/10/2020,Diputado,Marcela Hernando Pérez,12/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+190,7,28/10/2020,Diputado,Alexis Sepúlveda Soto,29/12/1969,52,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
 179,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,80,Partido por la Democracia,PPD,1,F. Vidal,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 111,6,28/10/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,73,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 109,6,28/10/2020,Senador,Guido Girardi Lavín,24/01/1961,60,Partido por la Democracia,PPD,1,H. Muñoz,27/10/2020,https://www.latercera.com/politica/noticia/heraldo-munoz-lanza-candidatura-presidencial-y-apuesta-por-primarias-en-el-ppd/PL6KAZR3YFAGFM2M5GXDLZMTSM/,.
@@ -17,6 +22,8 @@
 140,7,28/10/2020,Diputado,Sebastían Álvarez Ramírez,13/11/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
 139,7,28/10/2020,Diputado,Pablo Kast Sommerhoff,24/08/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/labkast/status/1354051966733873154,.
 138,7,28/10/2020,Diputado,Sebastián Keitel Bianchi,14/02/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/evopoli/status/1354053001904848897,.
+147,7,28/10/2020,Diputado,Esteban Velásquez Núñez,26/12/1962,59,Federación Regionalista Verde Social,FRVS,1,J. Mulet,05/09/2020,https://www.latercera.com/politica/noticia/nuevo-candidato-en-la-carrera-presidencial-fvrs-proclamara-a-diputado-jaime-mulet/HO4PLRIRZZGRDCF44HDKW4DXWI/,.
+145,7,28/10/2020,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,56,Federación Regionalista Verde Social,FRVS,1,J. Mulet,05/09/2020,https://www.latercera.com/politica/noticia/nuevo-candidato-en-la-carrera-presidencial-fvrs-proclamara-a-diputado-jaime-mulet/HO4PLRIRZZGRDCF44HDKW4DXWI/,.
 14,7,28/10/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,68,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
 20,7,28/10/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,64,Partido Republicano,REP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
 19,7,28/10/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,53,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
@@ -143,7 +150,6 @@
 79,5,28/10/2020,Alcalde,Álvaro Ortíz Vera,24/10/1977,44,Partido Democrata Cristiano,DC,0,,,,
 80,5,28/10/2020,Alcalde,Gerardo Espíndola Rojas,23/07/1978,43,Partido Liberal,PL,0,,,,
 74,5,28/10/2020,Alcalde,Jorge Sharp Fajardo,25/03/1985,36,Independiente,IND,0,,,,
-81,5,28/10/2020,Alcalde,Ignacio Pozo Piña,15/08/1994,27,Partido Radical Socialdemócrata,PR,0,,,,
 108,6,28/10/2020,Senador,Jorge Soria Quiroga,01/11/1936,85,Partido por la Democracia,PPD,0,,,,
 132,6,28/10/2020,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,69,Unión Demócrata Independiente,UDI,0,,,,
 128,6,28/10/2020,Senador,David Sandoval Plaza,20/10/1952,69,Unión Demócrata Independiente,UDI,0,,,,
@@ -170,7 +176,6 @@
 131,6,28/10/2020,Senador,Ena Von Baer Jahn,28/11/1974,47,Unión Demócrata Independiente,UDI,0,,,,
 125,6,28/10/2020,Senador,Juan Ignacio Latorre Riveros,24/03/1978,43,Revolución Democrática,RD,0,,,,
 119,6,28/10/2020,Senador,Marcela Sabat Fernández,04/04/1981,40,Renovación Nacional,RN,0,,,,
-189,7,28/10/2020,Diputado,José Pérez Arriagada,29/12/1940,81,Partido Radical Socialdemócrata,PR,0,,,,
 157,7,28/10/2020,Diputado,Guillermo Teillier del Valle,29/10/1943,78,Partido Comunista de Chile,PC,0,,,,
 191,7,28/10/2020,Diputado,Carlos Abel Jarpa Wevar,14/11/1944,77,Independiente,IND,0,,,,
 154,7,28/10/2020,Diputado,Carmen Hertz Cádiz,19/06/1945,76,Partido Comunista de Chile,PC,0,,,,
@@ -200,17 +205,13 @@
 238,7,28/10/2020,Diputado,Sergio Bobadilla Muñoz,25/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
 263,7,28/10/2020,Diputado,Nora Cuevas Contreras,04/01/1959,62,Unión Demócrata Independiente,UDI,0,,,,
 171,7,28/10/2020,Diputado,Pamela Jiles Moreno,30/11/1960,61,Partido Humanista,PH,0,,,,
-187,7,28/10/2020,Diputado,Cosme Mellado Pino,24/02/1960,61,Partido Radical Socialdemócrata,PR,0,,,,
-186,7,28/10/2020,Diputado,Marcela Hernando Pérez,12/02/1960,61,Partido Radical Socialdemócrata,PR,0,,,,
 153,7,28/10/2020,Diputado,Hugo Gutiérrez Gálvez,05/10/1961,60,Partido Comunista de Chile,PC,0,,,,
 261,7,28/10/2020,Diputado,Cristián Moreira Barros,05/09/1961,60,Unión Demócrata Independiente,UDI,0,,,,
-147,7,28/10/2020,Diputado,Esteban Velásquez Núñez,26/12/1962,59,Federación Regionalista Verde Social,FRVS,0,,,,
 183,7,28/10/2020,Diputado,Cristina Girardi Lavín,09/01/1962,59,Partido por la Democracia,PPD,0,,,,
-144,7,28/10/2020,Diputado,Jaime Mulet Martínez,03/08/1963,58,Federación Regionalista Verde Social,FRVS,0,,,,
+144,7,28/10/2020,Presidencial,Jaime Mulet Martínez,03/08/1963,58,Federación Regionalista Verde Social,FRVS,0,,,,
 181,7,28/10/2020,Diputado,Carolina Marzán Pinto,22/12/1963,58,Partido por la Democracia,PPD,0,,,,
 225,7,28/10/2020,Diputado,Ximena Ossandón Irarrázaval,13/12/1963,58,Renovación Nacional,RN,0,,,,
 146,7,28/10/2020,Diputado,Pedro Velasquez Seguel,05/08/1964,57,Independiente,IND,0,,,,
-145,7,28/10/2020,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,56,Federación Regionalista Verde Social,FRVS,0,,,,
 222,7,28/10/2020,Diputado,Alejandro Santana Tirachini,18/07/1965,56,Renovación Nacional,RN,0,,,,
 241,7,28/10/2020,Diputado,Sergio Gahona Salazar,15/09/1965,56,Unión Demócrata Independiente,UDI,0,,,,
 253,7,28/10/2020,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,55,Unión Demócrata Independiente,UDI,0,,,,
@@ -219,7 +220,6 @@
 214,7,28/10/2020,Diputado,Catalina Del Real Mihovilovic,07/11/1968,53,Renovación Nacional,RN,0,,,,
 252,7,28/10/2020,Diputado,Rolando Rentería Moller,19/08/1968,53,Unión Demócrata Independiente,UDI,0,,,,
 175,7,28/10/2020,Diputado,Claudia Mix Jiménez,13/07/1969,52,Comunes,Comunes,0,,,,
-190,7,28/10/2020,Diputado,Alexis Sepúlveda Soto,29/12/1969,52,Partido Radical Socialdemócrata,PR,0,,,,
 152,7,28/10/2020,Diputado,Boris Barrera Moreno,03/05/1970,51,Partido Comunista de Chile,PC,0,,,,
 192,7,28/10/2020,Diputado,Marcelo Díaz Díaz,06/02/1971,50,Independiente,IND,0,,,,
 156,7,28/10/2020,Diputado,Daniel Núñez Arancibia,07/01/1971,50,Partido Comunista de Chile,PC,0,,,,
