@@ -1,23 +1,42 @@
 ﻿id,orden,fecha,Cargo,Nombre,fn,edad,Partido,Partido,registro,Candidato,fecha_endoso,link,link
+2,2,28/10/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,79,Partido Democrata Cristiano,DC,1,X. Rincón,,,
 4,2,28/10/2020,Ex Presidente,Michelle Bachelet Jeria,29/09/1951,70,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
 5,3,28/10/2020,Ministro,Gloria Hutt Hesse,31/01/1955,66,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-13,3,28/10/2020,Ministro,Andrés Allamand Zavala,07/02/1956,65,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
 22,3,28-04-2021,Ministro,María Emilia Undurraga,,,Evolución Política,EVO,1,I. Briones,28/04/2021,,
+13,3,28/10/2020,Ministro,Andrés Allamand Zavala,07/02/1956,65,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+16,3,28/10/2020,Ministro,Lucas Palacios Covarrubias,17/03/1974,47,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+17,3,28/10/2020,Ministro,Jaime Bellolio Avaría,29/11/1980,41,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+18,3,28/10/2020,Ministro,Felipe Ward Edwards ,14/09/1972,49,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+19,3,28/10/2020,Ministro,Julio Isamit Díaz,18/02/1989,32,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+20,3,28/10/2020,Ministro,Mónica Zalaquett Said,04/05/1962,59,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+21,3,28/10/2020,Ministro,Hernán Larraín Fernández,21/09/1947,74,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+26,3,28-04-2021,Ministro,Rodrigo Delgado,13-06-1974,47,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+27,3,28-04-2021,Ministro,Patricio Melero,19-06-1956,65,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
 32,4,28/10/2020,Intendente,Juan Eduardo Prieto ,08/11/1984,37,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
 33,4,28/10/2020,Intendente,Geoconda Navarrete Arratia ,08/09/1969,52,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
 40,4,28/10/2020,Intendente,Felipe Guevara Stephens ,05/08/1967,54,Renovación Nacional,RN,1,M. Desbordes,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-56,5,28/10/2020,Alcalde,Gerardo Espíndola Rojas,23/07/1978,43,Partido Liberal,PL,1,P. Vidal,28/04/2021,Instagram,.
+43,4,28/10/2020,Intendente,Miguel Ángel Quezada ,16/10/1969,52,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+44,4,28/10/2020,Intendente,Lucía Pinto Ramírez,18/09/1975,46,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+45,4,28/10/2020,Intendente,Rebeca Cofré Calderón ,23/08/1962,59,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+46,4,28/10/2020,Intendente,Sergio Giacaman García ,07/09/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+47,4,28/10/2020,Intendente,Roberto Erpel Seguel ,17/12/1956,65,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+54,5,28/10/2020,Alcalde,Marcelo Pereira Peralta,,0,Partido Democrata Cristiano,DC,1,X. Rincón,,Instagram,
+55,5,28/10/2020,Alcalde,Álvaro Ortíz Vera,24/10/1977,44,Partido Democrata Cristiano,DC,1,X. Rincón,,,
+56,5,28/10/2020,Alcalde,Gerardo Espíndola Rojas,23/07/1978,43,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
 57,5,28/10/2020,Alcalde,Ignacio Pozo Piña,15/08/1994,27,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
 58,5,28/10/2020,Alcalde,Leonel Cádiz Soto,,0,Partido Socialista,PS,1,P. Narváez,28/04/2021,,
 59,5,28/10/2020,Alcalde,Gervoy Paredes Rojas,,0,Partido Socialista,PS,1,P. Narváez,28/04/2021,,
 60,5,28/10/2020,Alcalde,Alejandro Huala Canumán,,0,Partido Socialista,PS,1,P. Narváez,28/04/2021,,
 62,5,28/10/2020,Alcalde,Felipe Alessandri Vergara,04/02/1975,46,Renovación Nacional,RN,1,M. Desbordes,29/10/2020,https://www.elmostrador.cl/noticias/2020/10/29/desbordes-candidato-grupo-de-diputados-rn-y-alcalde-alessandri-aseguran-que-es-el-liderazgo-que-chile-necesita-alejado-de-los-dogmas-y-conectado-con-la-realidad/,.
-71,6,28/10/2020,Senador,Yasna Provoste Campillay,16/12/1969,52,Partido Democrata Cristiano,DC,1,X. Rincón,27/01/2021,https://www.elmostrador.cl/dia/2021/01/27/senadores-dc-respaldan-camino-presidencial-de-ximena-rincon-y-deslizan-critica-a-briones-por-definir-entre-cuatro-paredes-su-candidatura/,.
+67,5,28/10/2020,Alcalde,Virginia Reginato Bozzo,16/07/1939,82,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+68,5,28/10/2020,Alcalde,Joaquín Lavín Infante,23/10/1953,68,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
 72,6,28/10/2020,Senador,Felipe Kast Sommerhoff,09/06/1977,44,Evolución Política,EVO,1,I. Briones,26/01/2021,https://radio.uchile.cl/2021/01/26/apoyos-y-criticas-lo-que-dejo-la-salida-de-ignacio-briones-del-gabinete/,.
+84,6,28/10/2020,Senador,Ximena Órdenes Neira,09/03/1973,48,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+71,6,28/10/2020,Senador,Yasna Provoste Campillay,16/12/1969,52,Partido Democrata Cristiano,DC,1,X. Rincón,27/01/2021,https://www.elmostrador.cl/dia/2021/01/27/senadores-dc-respaldan-camino-presidencial-de-ximena-rincon-y-deslizan-critica-a-briones-por-definir-entre-cuatro-paredes-su-candidatura/,.
 80,6,28/10/2020,Senador,Francisco Huenchumilla Jaramillo,22/03/1944,77,Partido Democrata Cristiano,DC,1,X. Rincón,27/01/2021,https://www.elmostrador.cl/dia/2021/01/27/senadores-dc-respaldan-camino-presidencial-de-ximena-rincon-y-deslizan-critica-a-briones-por-definir-entre-cuatro-paredes-su-candidatura/,.
 81,6,28/10/2020,Senador,Carolina Goic Boroevic,20/12/1972,49,Partido Democrata Cristiano,DC,1,X. Rincón,27/01/2021,https://www.elmostrador.cl/dia/2021/01/27/senadores-dc-respaldan-camino-presidencial-de-ximena-rincon-y-deslizan-critica-a-briones-por-definir-entre-cuatro-paredes-su-candidatura/,.
 82,6,28/10/2020,Senador,Jorge Pizarro Soto,21/04/1952,69,Partido Democrata Cristiano,DC,1,X. Rincón,27/01/2021,https://www.elmostrador.cl/dia/2021/01/27/senadores-dc-respaldan-camino-presidencial-de-ximena-rincon-y-deslizan-critica-a-briones-por-definir-entre-cuatro-paredes-su-candidatura/,.
-84,6,28/10/2020,Senador,Ximena Órdenes Neira,09/03/1973,48,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+69,6,28/10/2020,Presidencial,Ximena Rincón González,05/07/1968,53,Partido Democrata Cristiano,DC,1,X. Rincón,,,
 85,6,28/10/2020,Senador,Jaime Quintana Leal,22/10/1967,54,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 87,6,28/10/2020,Senador,Guido Girardi Lavín,24/01/1961,60,Partido por la Democracia,PPD,1,H. Muñoz,27/10/2020,https://www.latercera.com/politica/noticia/heraldo-munoz-lanza-candidatura-presidencial-y-apuesta-por-primarias-en-el-ppd/PL6KAZR3YFAGFM2M5GXDLZMTSM/,.
 88,6,28/10/2020,Senador,Adriana Muñoz D'Albora,25/09/1948,73,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
@@ -30,34 +49,20 @@
 95,6,28/10/2020,Senador,Rabindranath Quinteros Lara,31/10/1943,78,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
 100,6,28/10/2020,Senador,Rafael Prohens Espinosa,12/06/1955,66,Renovación Nacional,RN,1,M. Desbordes,18/12/2020,https://twitter.com/RafaelProhensE/status/1339973109026353154,.
 102,6,28/10/2020,Senador,Juan Ignacio Latorre Riveros,24/03/1978,43,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-112,7,28/10/2020,Diputado,Andrés Celis Montt,08/04/1975,46,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-113,7,28/10/2020,Diputado,Jorge Durán Espinosa,17/12/1980,41,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-114,7,28/10/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-115,7,28/10/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,45,Independiente,IND,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-116,7,28/10/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-117,7,28/10/2020,Diputado,Hugo Rey Martínez,06/12/1973,48,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-118,7,28/10/2020,Diputado,Andrés Longton Herrera,26/05/1982,39,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-119,7,28/10/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,31,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-120,7,28/10/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,64,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
-121,7,28/10/2020,Diputado,Francesca Muñoz González,07/03/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-122,7,28/10/2020,Diputado,Eduardo Durán Salinas,01/01/1972,49,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-123,7,28/10/2020,Diputado,Camila Flores Oporto,09/02/1987,34,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-124,7,28/10/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,68,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-125,7,28/10/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-126,7,28/10/2020,Diputado,Miguel Mellado Suazo,29/12/1958,63,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-127,7,28/10/2020,Diputado,Pablo Prieto Lorca,04/05/1959,62,Independiente,IND,1,M. Desbordes,29/10/2020,https://www.24horas.cl/politica/diputados-rn-piden-a-desbordes-ser-candidato-presidencial-chile-lo-necesita-4510124,.
-128,7,28/10/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,46,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-129,7,28/10/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,53,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-130,7,28/10/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,64,Partido Republicano,REP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-131,7,28/10/2020,Diputado,Miguel Calisto Águila,19/07/1985,36,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-132,7,28/10/2020,Diputado,Gabriel Silber Romo,15/09/1976,45,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-133,7,28/10/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,69,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
-134,7,28/10/2020,Diputado,Karin Luck Urban,19/07/1971,50,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-135,7,28/10/2020,Diputado,Luis Pardo Sáinz,13/12/1960,61,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-136,7,28/10/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-137,7,28/10/2020,Diputado,Tomás Fuentes Barros,10/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+103,6,28/10/2020,Senador,José Durana Semir,27/06/1960,61,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+104,6,28/10/2020,Senador,Luz Ebensperger Orrego,08/03/1964,57,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+105,6,28/10/2020,Senador,David Sandoval Plaza,20/10/1952,69,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+106,6,28/10/2020,Senador,Juan Antonio Coloma Correa,15/07/1956,65,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+107,6,28/10/2020,Senador,Iván Moreira Barros,08/12/1956,65,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+108,6,28/10/2020,Senador,Ena Von Baer Jahn,28/11/1974,47,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+109,6,28/10/2020,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,69,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+110,6,28/10/2020,Senador,Jacqueline Van Rysselberghe Herrera,03/02/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+111,6,28/10/2020,Senador,Claudio Alvarado Andrade,07/02/1960,61,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+172,7,28/10/2020,Diputado,Camila Rojas Valderrama,11/03/1991,30,Comunes,Comunes,1,G. Boric,,,
+175,7,28/10/2020,Diputado,Claudia Mix Jiménez,13/07/1969,52,Comunes,Comunes,1,G. Boric,,,
 138,7,28/10/2020,Diputado,Diego Ibáñez Cotroneo,25/01/1989,32,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
 139,7,28/10/2020,Diputado,Gonzalo Winter Etcheberry,06/01/1987,34,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,.
+227,7,28/10/2020,Diputado,Gael Yeomans Araya,04/12/1988,33,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
 140,7,28/10/2020,Diputado,Sebastián Keitel Bianchi,14/02/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/evopoli/status/1354053001904848897,.
 141,7,28/10/2020,Diputado,Pablo Kast Sommerhoff,24/08/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/labkast/status/1354051966733873154,.
 142,7,28/10/2020,Diputado,Sebastían Álvarez Ramírez,13/11/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
@@ -66,6 +71,11 @@
 145,7,28/10/2020,Diputado,Francisco Undurraga Gazitúa,29/09/1965,56,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/Panchoundurraga/status/1354042149055188992,.
 146,7,28/10/2020,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,56,Federación Regionalista Verde Social,FRVS,1,J. Mulet,05/09/2020,https://www.latercera.com/politica/noticia/nuevo-candidato-en-la-carrera-presidencial-fvrs-proclamara-a-diputado-jaime-mulet/HO4PLRIRZZGRDCF44HDKW4DXWI/,.
 148,7,28/10/2020,Diputado,Esteban Velásquez Núñez,26/12/1962,59,Federación Regionalista Verde Social,FRVS,1,J. Mulet,05/09/2020,https://www.latercera.com/politica/noticia/nuevo-candidato-en-la-carrera-presidencial-fvrs-proclamara-a-diputado-jaime-mulet/HO4PLRIRZZGRDCF44HDKW4DXWI/,.
+263,7,28/10/2020,Presidencial,Jaime Mulet Martínez,03/08/1963,58,Federación Regionalista Verde Social,FRVS,1,J. Mulet,28/04/2021,,
+164,7,28/10/2020,Diputado,Raúl Soto Mardones,20/11/1987,34,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
+115,7,28/10/2020,Diputado,Erika Olivera de la Fuente,04/01/1976,45,Independiente,IND,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+127,7,28/10/2020,Diputado,Pablo Prieto Lorca,04/05/1959,62,Independiente,IND,1,M. Desbordes,29/10/2020,https://www.24horas.cl/politica/diputados-rn-piden-a-desbordes-ser-candidato-presidencial-chile-lo-necesita-4510124,.
+225,7,28/10/2020,Diputado,Natalia Castillo Muñoz,01/08/1982,39,Nuevo Trato,NT,1,P. Narváez,28/04/2021,Instagram,.
 151,7,28/10/2020,Diputado,Camila Vallejo Dowling,28/04/1988,33,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 152,7,28/10/2020,Diputado,Karol Cariola Oliva,01/04/1987,34,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 153,7,28/10/2020,Diputado,Boris Barrera Moreno,03/05/1970,51,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
@@ -74,24 +84,28 @@
 156,7,28/10/2020,Diputado,Amaro Labra Sepúlveda,25/10/1949,72,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 157,7,28/10/2020,Diputado,Daniel Núñez Arancibia,07/01/1971,50,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 158,7,28/10/2020,Diputado,Guillermo Teillier del Valle,29/10/1943,78,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+183,7,28/10/2020,Diputado,Marisela Santibáñez Novoa,24/04/1975,46,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+120,7,28/10/2020,Diputado,Mario Venegas Cárdenas,03/12/1957,64,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
+131,7,28/10/2020,Diputado,Miguel Calisto Águila,19/07/1985,36,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+132,7,28/10/2020,Diputado,Gabriel Silber Romo,15/09/1976,45,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
+133,7,28/10/2020,Diputado,Daniel Verdessi Belemmi,15/12/1952,69,Partido Democrata Cristiano,DC,1,X. Rincón,09/11/2020,https://www.latercera.com/la-tercera-pm/noticia/rincon-huenchumilla-undurraga-flores-deces-definen-sus-preferencias-presidenciales/XP4UNNOLIRAPDGTI5LKSECKGTM/,.
 159,7,28/10/2020,Diputado,Gabriel Ascencio Mansilla,25/10/1953,68,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 160,7,28/10/2020,Diputado,Iván Flores García,15/06/1955,66,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 161,7,28/10/2020,Diputado,Manuel Matta Aragay,10/11/1946,75,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 162,7,28/10/2020,Diputado,José Miguel Ortiz Novoa,22/11/1941,80,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 163,7,28/10/2020,Diputado,Joanna Pérez Olea,01/04/1976,45,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
-164,7,28/10/2020,Diputado,Raúl Soto Mardones,20/11/1987,34,Independiente,IND,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 165,7,28/10/2020,Diputado,Víctor Torres Jeldes,11/10/1975,46,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 167,7,28/10/2020,Diputado,Jorge Sabag Villalobos,26/12/1963,58,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
 168,7,28/10/2020,Diputado,Matias Walker Prieto,19/07/1973,48,Partido Democrata Cristiano,DC,1,X. Rincón,25/01/2021,https://twitter.com/DiputadosDC/status/1353510903535325186,.
-173,7,28/10/2020,Diputado,Alejandro Bernales Maldonado,02/02/1979,42,Partido Liberal,PL,1,P. Vidal,28/04/2021,Instagram,.
-174,7,28/10/2020,Diputado,Vlado Mirosevic Verdugo,23/05/1987,34,Partido Liberal,PL,1,P. Vidal,28/04/2021,Instagram,.
+173,7,28/10/2020,Diputado,Alejandro Bernales Maldonado,02/02/1979,42,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
+174,7,28/10/2020,Diputado,Vlado Mirosevic Verdugo,23/05/1987,34,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
 177,7,28/10/2020,Diputado,Ricardo Celis Araya,11/07/1955,66,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
 179,7,28/10/2020,Diputado,Tucapel Jiménez Fuentes,01/09/1962,59,Partido por la Democracia,PPD,1,H. Muñoz,20/10/2020,https://www.latercera.com/la-tercera-pm/noticia/vidal-remueve-las-aguas-del-ppd-munoz-se-reactiva-girardi-el-gran-elector-y-las-apuestas-de-parlamentarios/HZ2KOBTJZNH5PHDYEB7CYBP52Q/,.
-183,7,28/10/2020,Diputado,Marisela Santibáñez Novoa,24/04/1975,46,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 185,7,28/10/2020,Diputado,Marcela Hernando Pérez,12/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
 186,7,28/10/2020,Diputado,Cosme Mellado Pino,24/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
 188,7,28/10/2020,Diputado,José Pérez Arriagada,29/12/1940,81,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
 189,7,28/10/2020,Diputado,Alexis Sepúlveda Soto,29/12/1969,52,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+130,7,28/10/2020,Diputado,Ignacio Urrutia Bonilla,16/09/1957,64,Partido Republicano,REP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
 192,7,28/10/2020,Diputado,Jenny Álvarez Vera,30/03/1974,47,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
 193,7,28/10/2020,Diputado,Juan Luis Castro González,18/04/1960,61,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
 194,7,28/10/2020,Diputado,Daniella Cicardini Milla,31/12/1987,34,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
@@ -109,20 +123,61 @@
 207,7,28/10/2020,Diputado,Leonardo Soto Ferrada,15/05/1966,55,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
 208,7,28/10/2020,Diputado,Maya Fernández Allende,27/09/1971,50,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
 209,7,28/10/2020,Diputado,Jaime Tohá González,16/06/1938,83,Partido Socialista,PS,1,P. Narváez,16/01/2021,https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2021/01/16/tras-uncion-de-bachelet-diputados-toha-saavedra-y-monsalve-apoyan-precandidatura-de-narvaez.shtml,.
+121,7,28/10/2020,Diputado,Francesca Muñoz González,07/03/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+122,7,28/10/2020,Diputado,Eduardo Durán Salinas,01/01/1972,49,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+123,7,28/10/2020,Diputado,Camila Flores Oporto,09/02/1987,34,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+124,7,28/10/2020,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,68,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+125,7,28/10/2020,Diputado,Aracely Leuquén Uribe,24/11/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+128,7,28/10/2020,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,46,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+129,7,28/10/2020,Diputado,Harry Jurgensen Rundshagen,03/09/1968,53,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+112,7,28/10/2020,Diputado,Andrés Celis Montt,08/04/1975,46,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+113,7,28/10/2020,Diputado,Jorge Durán Espinosa,17/12/1980,41,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+114,7,28/10/2020,Diputado,Francisco Eguiguren Correa,13/07/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+116,7,28/10/2020,Diputado,Jorge Rathgeb Schifferli,28/12/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+117,7,28/10/2020,Diputado,Hugo Rey Martínez,06/12/1973,48,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+118,7,28/10/2020,Diputado,Andrés Longton Herrera,26/05/1982,39,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+119,7,28/10/2020,Diputado,Camilo Morán Bahamondes,17/04/1990,31,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+126,7,28/10/2020,Diputado,Miguel Mellado Suazo,29/12/1958,63,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+134,7,28/10/2020,Diputado,Karin Luck Urban,19/07/1971,50,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+135,7,28/10/2020,Diputado,Luis Pardo Sáinz,13/12/1960,61,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+136,7,28/10/2020,Diputado,Diego Schalper Sepúlveda,14/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+137,7,28/10/2020,Diputado,Tomás Fuentes Barros,10/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
 217,7,28/10/2020,Diputado,Diego Paulsen Kehr,01/08/1987,34,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-225,7,28/10/2020,Diputado,Natalia Castillo Muñoz,01/08/1982,39,Nuevo Trato,NT,1,P. Vidal,28/04/2021,Instagram,.
 226,7,28/10/2020,Diputado,Catalina Pérez Salinas,18/12/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-227,7,28/10/2020,Diputado,Gael Yeomans Araya,04/12/1988,33,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
 228,7,28/10/2020,Diputado,Jorge Brito Hasbún,12/01/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
 229,7,28/10/2020,Diputado,Miguel Crispi Serrano,09/04/1985,36,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
 230,7,28/10/2020,Diputado,Giorgio Jackson Drago,06/02/1987,34,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
 231,7,28/10/2020,Diputado,Maite Orsini Pascal,23/02/1988,33,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-243,7,28/10/2020,Diputado,Javier Macaya Danús,11/11/1978,43,Unión Demócrata Independiente,UDI,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
 261,7,28-04-2021,Diputado,Marcela Sandoval,09-02-1974,47,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-263,7,28/10/2020,Presidencial,Jaime Mulet Martínez,03/08/1963,58,Federación Regionalista Verde Social,FRVS,1,J. Mulet,28/04/2021,,
+243,7,28/10/2020,Diputado,Javier Macaya Danús,11/11/1978,43,Unión Demócrata Independiente,UDI,1,J. Lavín,,,.
+233,7,28/10/2020,Diputado,Nino Baltolú Rasera,28/09/1953,68,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+234,7,28/10/2020,Diputado,Ramón Barros Montero,05/03/1958,63,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+235,7,28/10/2020,Diputado,Sergio Bobadilla Muñoz,25/03/1958,63,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+237,7,28/10/2020,Diputado,Juan Manuel Fuenzalida Cobo,01/07/1973,48,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+238,7,28/10/2020,Diputado,Sergio Gahona Salazar,15/09/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+239,7,28/10/2020,Diputado,Javier Hernández Hernández,07/08/1954,67,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+240,7,28/10/2020,Diputado,Maria José Hoffmann Opazo,28/12/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+241,7,28/10/2020,Diputado,Isaa Kort Garriga,09/05/1980,41,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+242,7,28/10/2020,Diputado,Joaquín Lavín León,25/05/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+244,7,28/04/2021,Diputado,Cristián Labbe,06/03/1980,41,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+245,7,28/10/2020,Diputado,Celso Morales Muñoz,10/07/1957,64,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+246,7,28/10/2020,Diputado,Nicolás Noman Garrido,07/05/1981,40,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+247,7,28/10/2020,Diputado,Iván Norambuena Farías,04/09/1958,63,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+248,7,28/10/2020,Diputado,Guillermo Ramírez Diez,16/04/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+249,7,28/10/2020,Diputado,Rolando Rentería Moller,19/08/1968,53,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+250,7,28/10/2020,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,55,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+251,7,28/10/2020,Diputado,Renzo Trisotti Martínez,15/03/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+253,7,28/10/2020,Diputado,Osvaldo Urrutia Soto,28/11/1951,70,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+254,7,28/10/2020,Diputado,Gastón Von Muhlenbrock Zamora,26/12/1954,67,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+255,7,28/10/2020,Diputado,Jorge Alessandri Vergara,08/06/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+256,7,28/10/2020,Diputado,Pedro Alvarez-Salamanca Ramírez,18/02/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+257,7,28/10/2020,Diputado,Juan Antonio Coloma Álamos,14/03/1980,41,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+258,7,28/10/2020,Diputado,Cristián Moreira Barros,05/09/1961,60,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+259,7,28/10/2020,Diputado,Enrique Van Rysselberghe Herrera,17/09/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+260,7,28/10/2020,Diputado,Nora Cuevas Contreras,04/01/1959,62,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
 1,1,28/10/2020,Presidente,Sebastián Piñera Echeñique,01/12/1949,72,Independiente,IND,0,,,,
-2,2,28/10/2020,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,79,Partido Democrata Cristiano,DC,0,,,,
 3,2,28/10/2020,Ex Presidente,Ricardo Lagos Escobar,02/03/1938,83,Partido por la Democracia,PPD,0,,,,
+28,3,28/10/2020,Presidencial,Ignacio Briones Rojas,12/12/1972,49,Evolución Política,EVO,0,,,,
 6,3,28/10/2020,Ministro,Karla Rubilar Barahona,17/04/1977,44,Independiente,IND,0,,,,
 7,3,28/10/2020,Ministro,Juan Carlos Jobet Eluchans,14/10/1975,46,Independiente,IND,0,,,,
 8,3,28/10/2020,Ministro,Consuelo Valdés Chadwick,09/10/1948,73,Independiente,IND,0,,,,
@@ -130,22 +185,13 @@
 10,3,28/10/2020,Ministro,Alfredo Moreno Charme,04/08/1956,65,Independiente,IND,0,,,,
 11,3,28/10/2020,Ministro,Enrique Paris Mancilla,03/09/1948,73,Independiente,IND,0,,,,
 12,3,28/10/2020,Ministro,Carolina Schmidt Zaldívar,09/09/1967,54,Independiente,IND,0,,,,
-14,3,28/10/2020,Ministro,Baldo Prokuriça Prokuriça,02/07/1958,63,Renovación Nacional,RN,0,,,,
-15,3,28/10/2020,Ministro,Cecilia Pérez Jara,23/09/1974,47,Renovación Nacional,RN,0,,,,
-16,3,28/10/2020,Ministro,Lucas Palacios Covarrubias,17/03/1974,47,Unión Demócrata Independiente,UDI,0,,,,
-17,3,28/10/2020,Ministro,Jaime Bellolio Avaría,29/11/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-18,3,28/10/2020,Ministro,Felipe Ward Edwards ,14/09/1972,49,Unión Demócrata Independiente,UDI,0,,,,
-19,3,28/10/2020,Ministro,Julio Isamit Díaz,18/02/1989,32,Unión Demócrata Independiente,UDI,0,,,,
-20,3,28/10/2020,Ministro,Mónica Zalaquett Said,04/05/1962,59,Unión Demócrata Independiente,UDI,0,,,,
-21,3,28/10/2020,Ministro,Hernán Larraín Fernández,21/09/1947,74,Unión Demócrata Independiente,UDI,0,,,,
 23,3,28-04-2021,Ministro,Rodrigo Cerda,13-02-1973,48,Independiente,IND,0,,,,
 24,3,28-04-2021,Ministro,Andrés Couve,23-10-1968,53,Independiente,IND,0,,,,
-25,3,28-04-2021,Ministro,Juan José Ossa,12-09-1979,42,Renovación Nacional,RN,0,,,,
-26,3,28-04-2021,Ministro,Rodrigo Delgado,13-06-1974,47,Unión Demócrata Independiente,UDI,0,,,,
-27,3,28-04-2021,Ministro,Patricio Melero,19-06-1956,65,Unión Demócrata Independiente,UDI,0,,,,
-28,3,28/10/2020,Presidencial,Ignacio Briones Rojas,12/12/1972,49,Evolución Política,EVO,0,,,,
-29,3,28/10/2020,Presidencial,Mario Desbordes Jiménez,15/10/1968,53,Renovación Nacional,RN,0,,,,
 30,3,28/04/2021,Presidencial,Pamela Jiles Moreno,30/11/1960,61,Partido Humanista,PH,0,,,,
+14,3,28/10/2020,Ministro,Baldo Prokuriça Prokuriça,02/07/1958,63,Renovación Nacional,RN,0,,,,
+15,3,28/10/2020,Ministro,Cecilia Pérez Jara,23/09/1974,47,Renovación Nacional,RN,0,,,,
+25,3,28-04-2021,Ministro,Juan José Ossa,12-09-1979,42,Renovación Nacional,RN,0,,,,
+29,3,28/10/2020,Presidencial,Mario Desbordes Jiménez,15/10/1968,53,Renovación Nacional,RN,0,,,,
 34,4,28/10/2020,Intendente,Martín Arrau García-Huidobro ,,0,Independiente,IND,0,,,,
 35,4,28/10/2020,Intendente,César Asenjo Jerez ,,0,Independiente,IND,0,,,,
 36,4,28/10/2020,Intendente,José Fernández Dübrock ,10/10/1953,68,Independiente,IND,0,,,,
@@ -154,30 +200,19 @@
 39,4,28/10/2020,Intendente,Jorge Martínez Durán ,19/11/1972,49,Renovación Nacional,RN,0,,,,
 41,4,28/10/2020,Intendente,Víctor Manoli Nazal ,,0,Renovación Nacional,RN,0,,,,
 42,4,28/10/2020,Intendente,Harry Jürgensen Caesar,30/05/1949,72,Renovación Nacional,RN,0,,,,
-43,4,28/10/2020,Intendente,Miguel Ángel Quezada ,16/10/1969,52,Unión Demócrata Independiente,UDI,0,,,,
-44,4,28/10/2020,Intendente,Lucía Pinto Ramírez,18/09/1975,46,Unión Demócrata Independiente,UDI,0,,,,
-45,4,28/10/2020,Intendente,Rebeca Cofré Calderón ,23/08/1962,59,Unión Demócrata Independiente,UDI,0,,,,
-46,4,28/10/2020,Intendente,Sergio Giacaman García ,07/09/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-47,4,28/10/2020,Intendente,Roberto Erpel Seguel ,17/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
 48,5,28/10/2020,Alcalde,Cathy Barriga Guerra,09/04/1973,48,Independiente,IND,0,,,,
 49,5,28/10/2020,Alcalde,Rodolfo Carter Fernández,06/06/1971,50,Independiente,IND,0,,,,
 50,5,28/10/2020,Alcalde,Jorge Sharp Fajardo,25/03/1985,36,Independiente,IND,0,,,,
 51,5,28/10/2020,Alcalde,Mauricio Soria Macchiavello,03/03/1969,52,Independiente,IND,0,,,,
 52,5,28/10/2020,Alcalde,Omar Sabat Guzmán,,0,Independiente,IND,0,,,,
 53,5,28/10/2020,Alcalde,Marcos López Rivera,20/03/1957,64,Independiente,IND,0,,,,
-54,5,28/10/2020,Alcalde,Marcelo Pereira Peralta,,0,Partido Democrata Cristiano,DC,0,,,Instagram,
-55,5,28/10/2020,Alcalde,Álvaro Ortíz Vera,24/10/1977,44,Partido Democrata Cristiano,DC,0,,,,
 61,5,28/10/2020,Alcalde,Germán Codina Powers,28/03/1974,47,Renovación Nacional,RN,0,,,,
 63,5,28/10/2020,Alcalde,Miguel Ángel Becker Alvear,07/10/1960,61,Renovación Nacional,RN,0,,,,
 64,5,28/10/2020,Alcalde,Juan Carlos Díaz Avendaño,,0,Renovación Nacional,RN,0,,,,
 65,5,28/10/2020,Alcalde,Sergio Zarzar Andonie,12/01/1952,69,Renovación Nacional,RN,0,,,,
 66,5,28/10/2020,Alcalde,Claudio Radonich,26/03/1976,45,Renovación Nacional,RN,0,,,,
-67,5,28/10/2020,Alcalde,Virginia Reginato Bozzo,16/07/1939,82,Unión Demócrata Independiente,UDI,0,,,,
-68,5,28/10/2020,Alcalde,Joaquín Lavín Infante,23/10/1953,68,Unión Demócrata Independiente,UDI,0,,,,
-69,6,28/10/2020,Presidencial,Ximena Rincón González,05/07/1968,53,Partido Democrata Cristiano,DC,0,,,,
 70,6,28/04/2021,Presidencial,Gabriel Boric Font,11/02/1986,35,Convergencia Social,CS,0,,,,
 73,6,28/10/2020,Senador,Carmen Gloria Aravena Acuña,06/01/1967,54,Independiente,IND,0,,,,
-74,6,28/10/2020,Senador,Juan Castro Prieto,01/11/1959,62,Renovación Nacional,RN,0,,,,
 75,6,28/10/2020,Senador,Kenneth Pugh Olavarría,22/10/1959,62,Independiente,IND,0,,,,
 76,6,28/10/2020,Senador,Carlos Bianchi Chelech,04/11/1960,61,Independiente,IND,0,,,,
 77,6,28/10/2020,Senador,Alejandro Guillier Álvarez,05/03/1953,68,Independiente,IND,0,,,,
@@ -185,39 +220,34 @@
 79,6,28/10/2020,Senador,Alejandro Navarro Brain,20/11/1958,63,Pais Progresista,PPRO,0,,,,
 83,6,28/10/2020,Senador,Ricardo Lagos Weber,21/02/1962,59,Partido por la Democracia,PPD,0,,,,
 86,6,28/10/2020,Senador,Jorge Soria Quiroga,01/11/1936,85,Partido por la Democracia,PPD,0,,,,
+74,6,28/10/2020,Senador,Juan Castro Prieto,01/11/1959,62,Renovación Nacional,RN,0,,,,
 96,6,28/10/2020,Senador,Marcela Sabat Fernández,04/04/1981,40,Renovación Nacional,RN,0,,,,
 97,6,28/10/2020,Senador,Francisco Chahuan Chahuan,20/05/1971,50,Renovación Nacional,RN,0,,,,
 98,6,28/10/2020,Senador,Rodrigo Galilea Vial,03/11/1966,55,Renovación Nacional,RN,0,,,,
 99,6,28/10/2020,Senador,José García Ruminot,22/05/1955,66,Renovación Nacional,RN,0,,,,
 101,6,28/10/2020,Senador,Manuel José Ossandón Irarrázabal,24/08/1962,59,Renovación Nacional,RN,0,,,,
-103,6,28/10/2020,Senador,José Durana Semir,27/06/1960,61,Unión Demócrata Independiente,UDI,0,,,,
-104,6,28/10/2020,Senador,Luz Ebensperger Orrego,08/03/1964,57,Unión Demócrata Independiente,UDI,0,,,,
-105,6,28/10/2020,Senador,David Sandoval Plaza,20/10/1952,69,Unión Demócrata Independiente,UDI,0,,,,
-106,6,28/10/2020,Senador,Juan Antonio Coloma Correa,15/07/1956,65,Unión Demócrata Independiente,UDI,0,,,,
-107,6,28/10/2020,Senador,Iván Moreira Barros,08/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
-108,6,28/10/2020,Senador,Ena Von Baer Jahn,28/11/1974,47,Unión Demócrata Independiente,UDI,0,,,,
-109,6,28/10/2020,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,69,Unión Demócrata Independiente,UDI,0,,,,
-110,6,28/10/2020,Senador,Jacqueline Van Rysselberghe Herrera,03/02/1965,56,Unión Demócrata Independiente,UDI,0,,,,
-111,6,28/10/2020,Senador,Claudio Alvarado Andrade,07/02/1960,61,Unión Demócrata Independiente,UDI,0,,,,
 147,7,28/10/2020,Diputado,Pedro Velasquez Seguel,05/08/1964,57,Independiente,IND,0,,,,
 149,7,28/10/2020,Diputado,Karim Bianchi Retamales,31/01/1983,38,Independiente,IND,0,,,,
 150,7,28/10/2020,Diputado,Rene Saffirio Espinoza,09/10/1955,66,Independiente,IND,0,,,,
 166,7,28/10/2020,Diputado,Pablo Lorenzini Basso,25/10/1949,72,Independiente,IND,0,,,,
-169,7,28/10/2020,Diputado,Félix González Gatica,26/05/1972,49,Partido Ecologista Verde,PEV,0,,,,
-170,7,28/10/2020,Diputado,Raúl Florcita Alarcón Rojas,15/10/1945,76,Partido Humanista,PH,0,,,,
 171,7,28/10/2020,Diputado,Tomás Hirsch Goldschmidt,19/07/1956,65,Independiente,IND,0,,,,
-172,7,28/10/2020,Diputado,Camila Rojas Valderrama,11/03/1991,30,Comunes,Comunes,0,,,,
-175,7,28/10/2020,Diputado,Claudia Mix Jiménez,13/07/1969,52,Comunes,Comunes,0,,,,
 176,7,28/10/2020,Diputado,René Alinco Bustos,02/06/1958,63,Independiente,IND,0,,,,
-178,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,80,Partido por la Democracia,PPD,0,,,,
-180,7,28/10/2020,Diputado,Carolina Marzán Pinto,22/12/1963,58,Partido por la Democracia,PPD,0,,,,
-181,7,28/10/2020,Diputado,Andrea Parra Sauterel,02/09/1967,54,Partido por la Democracia,PPD,0,,,,
-182,7,28/10/2020,Diputado,Cristina Girardi Lavín,09/01/1962,59,Partido por la Democracia,PPD,0,,,,
 184,7,28/10/2020,Diputado,Pepe Auth Stewart,06/03/1957,64,Independiente,IND,0,,,,
 187,7,28/10/2020,Diputado,Fernando Meza Moncada,14/07/1946,75,Independiente,IND,0,,,,
 190,7,28/10/2020,Diputado,Carlos Abel Jarpa Wevar,14/11/1944,77,Independiente,IND,0,,,,
 191,7,28/10/2020,Diputado,Marcelo Díaz Díaz,06/02/1971,50,Independiente,IND,0,,,,
 202,7,28/10/2020,Diputado,Patricio Rosas Barrientos,06/05/1968,53,Independiente,IND,0,,,,
+232,7,28/10/2020,Diputado,Sandra Amar Mancilla,24/11/1955,66,Independiente,IND,0,,,,
+236,7,28/10/2020,Diputado,Álvaro Carter Fernández,09/10/1980,41,Independiente,IND,0,,,,
+252,7,28/10/2020,Diputado,Virginia Troncoso Hellman,18/02/1951,70,Independiente,IND,0,,,,
+169,7,28/10/2020,Diputado,Félix González Gatica,26/05/1972,49,Partido Ecologista Verde,PEV,0,,,,
+170,7,28/10/2020,Diputado,Raúl Florcita Alarcón Rojas,15/10/1945,76,Partido Humanista,PH,0,,,,
+178,7,28/10/2020,Diputado,Rodrigo González Torres,26/09/1941,80,Partido por la Democracia,PPD,0,,,,
+180,7,28/10/2020,Diputado,Carolina Marzán Pinto,22/12/1963,58,Partido por la Democracia,PPD,0,,,,
+181,7,28/10/2020,Diputado,Andrea Parra Sauterel,02/09/1967,54,Partido por la Democracia,PPD,0,,,,
+182,7,28/10/2020,Diputado,Cristina Girardi Lavín,09/01/1962,59,Partido por la Democracia,PPD,0,,,,
+262,7,28-04-2021,Diputado,Patricia Rubio,01/08/1970,51,Partido por la Democracia,PPD,0,,,,
+264,7,28/10/2020,Senador,Loreto Carvajal Ambiado,18/05/1973,48,Partido por la Democracia,PPD,0,,,,
 210,7,28/10/2020,Diputado,Bernardo Berger Fett,04/10/1946,75,Renovación Nacional,RN,0,,,,
 211,7,28/10/2020,Diputado,José Miguel Castro Bascuñan,05/08/1974,47,Renovación Nacional,RN,0,,,,
 212,7,28/10/2020,Diputado,Sofía Cid Versalovic,29/09/1971,50,Renovación Nacional,RN,0,,,,
@@ -232,34 +262,5 @@
 222,7,28/10/2020,Diputado,Frank Sauerbaum Muñoz,21/11/1972,49,Renovación Nacional,RN,0,,,,
 223,7,28/10/2020,Diputado,Sebastián Torrealba Alvarado,06/02/1981,40,Renovación Nacional,RN,0,,,,
 224,7,28/10/2020,Diputado,Ximena Ossandón Irarrázaval,13/12/1963,58,Renovación Nacional,RN,0,,,,
-232,7,28/10/2020,Diputado,Sandra Amar Mancilla,24/11/1955,66,Independiente,IND,0,,,,
-233,7,28/10/2020,Diputado,Nino Baltolú Rasera,28/09/1953,68,Unión Demócrata Independiente,UDI,0,,,,
-234,7,28/10/2020,Diputado,Ramón Barros Montero,05/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-235,7,28/10/2020,Diputado,Sergio Bobadilla Muñoz,25/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-236,7,28/10/2020,Diputado,Álvaro Carter Fernández,09/10/1980,41,Independiente,IND,0,,,,
-237,7,28/10/2020,Diputado,Juan Manuel Fuenzalida Cobo,01/07/1973,48,Unión Demócrata Independiente,UDI,0,,,,
-238,7,28/10/2020,Diputado,Sergio Gahona Salazar,15/09/1965,56,Unión Demócrata Independiente,UDI,0,,,,
-239,7,28/10/2020,Diputado,Javier Hernández Hernández,07/08/1954,67,Unión Demócrata Independiente,UDI,0,,,,
-240,7,28/10/2020,Diputado,Maria José Hoffmann Opazo,28/12/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-241,7,28/10/2020,Diputado,Isaa Kort Garriga,09/05/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-242,7,28/10/2020,Diputado,Joaquín Lavín León,25/05/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-244,7,28/04/2021,Diputado,Cristián Labbe,06/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-245,7,28/10/2020,Diputado,Celso Morales Muñoz,10/07/1957,64,Unión Demócrata Independiente,UDI,0,,,,
-246,7,28/10/2020,Diputado,Nicolás Noman Garrido,07/05/1981,40,Unión Demócrata Independiente,UDI,0,,,,
-247,7,28/10/2020,Diputado,Iván Norambuena Farías,04/09/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-248,7,28/10/2020,Diputado,Guillermo Ramírez Diez,16/04/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-249,7,28/10/2020,Diputado,Rolando Rentería Moller,19/08/1968,53,Unión Demócrata Independiente,UDI,0,,,,
-250,7,28/10/2020,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,55,Unión Demócrata Independiente,UDI,0,,,,
-251,7,28/10/2020,Diputado,Renzo Trisotti Martínez,15/03/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-252,7,28/10/2020,Diputado,Virginia Troncoso Hellman,18/02/1951,70,Independiente,IND,0,,,,
-253,7,28/10/2020,Diputado,Osvaldo Urrutia Soto,28/11/1951,70,Unión Demócrata Independiente,UDI,0,,,,
-254,7,28/10/2020,Diputado,Gastón Von Muhlenbrock Zamora,26/12/1954,67,Unión Demócrata Independiente,UDI,0,,,,
-255,7,28/10/2020,Diputado,Jorge Alessandri Vergara,08/06/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-256,7,28/10/2020,Diputado,Pedro Alvarez-Salamanca Ramírez,18/02/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-257,7,28/10/2020,Diputado,Juan Antonio Coloma Álamos,14/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-258,7,28/10/2020,Diputado,Cristián Moreira Barros,05/09/1961,60,Unión Demócrata Independiente,UDI,0,,,,
-259,7,28/10/2020,Diputado,Enrique Van Rysselberghe Herrera,17/09/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-260,7,28/10/2020,Diputado,Nora Cuevas Contreras,04/01/1959,62,Unión Demócrata Independiente,UDI,0,,,,
-262,7,28-04-2021,Diputado,Patricia Rubio,01/08/1970,51,Partido por la Democracia,PPD,0,,,,
-264,7,28/10/2020,Senador,Loreto Carvajal Ambiado,18/05/1973,48,Partido por la Democracia,PPD,0,,,,
 31,3,28/04/2021,Presidencial,Pablo Vidal Rojas,24/06/1983,38,Nuevo Trato,NT,,,,,
+,,,,,,,,,,,,,
