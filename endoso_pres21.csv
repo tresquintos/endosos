@@ -1,255 +1,278 @@
 ﻿id,orden,Cargo,Nombre,fn,edad,Partido,Partido,registro,Candidato,fecha_endoso,link,link
-174,7,Diputado,Marcela Hernando Pérez,12/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
-175,7,Diputado,Cosme Mellado Pino,24/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
-177,7,Diputado,José Pérez Arriagada,29/12/1940,81,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
-178,7,Diputado,Alexis Sepúlveda Soto,29/12/1969,52,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+259,5,Alcalde,Roberto Jacob,,,Partido Radical Socialdemócrata,PR,1,C. Maldonado,11-06-2021,,
+262,5,Alcalde,Esteban Krause,,,Partido Radical Socialdemócrata,PR,1,C. Maldonado,11-06-2021,,
+174,7,Diputado,Marcela Hernando,12/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+175,7,Diputado,Cosme Mellado,24/02/1960,61,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+177,7,Diputado,José Pérez,29/12/1940,81,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+178,7,Diputado,Alexis Sepúlveda,29/12/1969,52,Partido Radical Socialdemócrata,PR,1,C. Maldonado,23/12/2020,https://www.latercera.com/politica/noticia/radicales-proclaman-a-carlos-maldonado-como-su-candidato-presidencial/CDTWMT6TIVFYRIY32KQZVG3KFE/,.
+277,5,Alcalde,Mauro Tamayo,,,Independiente,IFP,1,D. Jadue,11-06-2021,,
 56,5,Alcalde,Irací Hassler,06/11/1990,31,Partido Comunista de Chile,PC,1,D. Jadue,,,
-140,7,Diputado,Camila Vallejo Dowling,28/04/1988,33,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-141,7,Diputado,Karol Cariola Oliva,01/04/1987,34,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-142,7,Diputado,Boris Barrera Moreno,03/05/1970,51,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+140,7,Diputado,Camila Vallejo,28/04/1988,33,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+141,7,Diputado,Karol Cariola,01/04/1987,34,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+142,7,Diputado,Boris Barrera,03/05/1970,51,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
 143,7,Diputado,Rubén Moraga,01/07/1965,56,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-144,7,Diputado,Carmen Hertz Cádiz,19/06/1945,76,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-145,7,Diputado,Amaro Labra Sepúlveda,25/10/1949,72,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-146,7,Diputado,Daniel Núñez Arancibia,07/01/1971,50,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-147,7,Diputado,Guillermo Teillier del Valle,29/10/1943,78,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
-172,7,Diputado,Marisela Santibáñez Novoa,24/04/1975,46,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+144,7,Diputado,Carmen Hertz,19/06/1945,76,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+145,7,Diputado,Amaro Labra,25/10/1949,72,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+146,7,Diputado,Daniel Núñez,07/01/1971,50,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+147,7,Diputado,Guillermo Teillier,29/10/1943,78,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+172,7,Diputado,Marisela Santibáñez,24/04/1975,46,Partido Comunista de Chile,PC,1,D. Jadue,28/04/2021,,
+268,5,Alcalde,Valeria Melipillán,,,Convergencia Social,CS,1,G. Boric,11-06-2021,,
 46,5,Alcalde,Tomás Vodanovic,15/10/1990,31,Revolución Democrática,RD,1,G. Boric,,,
 50,5,Alcalde,Carla Amtmann,,,Revolución Democrática,RD,1,G. Boric,,,
 58,5,Alcalde,Emilia Ríos,,,Revolución Democrática,RD,1,G. Boric,,,
 59,5,Alcalde,Macarena Ripamonti,11/07/1991,30,Revolución Democrática,RD,1,G. Boric,,,
-91,6,Senador,Juan Ignacio Latorre Riveros,24/03/1978,43,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-127,7,Diputado,Diego Ibáñez Cotroneo,25/01/1989,32,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
-128,7,Diputado,Gonzalo Winter Etcheberry,06/01/1987,34,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,.
-215,7,Diputado,Catalina Pérez Salinas,18/12/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-216,7,Diputado,Gael Yeomans Araya,04/12/1988,33,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
-217,7,Diputado,Jorge Brito Hasbún,12/01/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-218,7,Diputado,Miguel Crispi Serrano,09/04/1985,36,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-219,7,Diputado,Giorgio Jackson Drago,06/02/1987,34,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-220,7,Diputado,Maite Orsini Pascal,23/02/1988,33,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+91,6,Senador,Juan I. Latorre,24/03/1978,43,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+127,7,Diputado,Diego Ibáñez,25/01/1989,32,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
+128,7,Diputado,Gonzalo Winter,06/01/1987,34,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,.
+216,7,Diputado,Gael Yeomans,04/12/1988,33,Convergencia Social,CS,1,G. Boric,28/04/2021,Instagram,
+215,7,Diputado,Catalina Pérez,18/12/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+217,7,Diputado,Jorge Brito,12/01/1990,31,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+218,7,Diputado,Miguel Crispi,09/04/1985,36,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+219,7,Diputado,Giorgio Jackson,06/02/1987,34,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
+220,7,Diputado,Maite Orsini,23/02/1988,33,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
 250,7,Diputado,Marcela Sandoval,09-02-1974,47,Revolución Democrática,RD,1,G. Boric,28/04/2021,,
-5,3,Ministro,Gloria Hutt Hesse,31/01/1955,66,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-22,3,Ministro,María Emilia Undurraga,,,Evolución Política,EVO,1,I. Briones,28/04/2021,,
-30,4,Intendente,Juan Eduardo Prieto ,08/11/1984,37,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-31,4,Ex Intendente,Geoconda Navarrete Arratia ,08/09/1969,52,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-61,6,Senador,Felipe Kast Sommerhoff,09/06/1977,44,Evolución Política,EVO,1,I. Briones,26/01/2021,https://radio.uchile.cl/2021/01/26/apoyos-y-criticas-lo-que-dejo-la-salida-de-ignacio-briones-del-gabinete/,.
-129,7,Diputado,Sebastián Keitel Bianchi,14/02/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/evopoli/status/1354053001904848897,.
-130,7,Diputado,Pablo Kast Sommerhoff,24/08/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/labkast/status/1354051966733873154,.
-131,7,Diputado,Sebastían Álvarez Ramírez,13/11/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-132,7,Diputado,Luciano Cruz-Coke Carvallo,01/07/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
-133,7,Diputado,Andrés Molina Magofke,17/11/1963,58,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/andresmolinam/status/1354049947629461506,.
-134,7,Diputado,Francisco Undurraga Gazitúa,29/09/1965,56,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/Panchoundurraga/status/1354042149055188992,.
+5,3,Ministro,Gloria Hutt,31/01/1955,66,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
+22,3,Ministro,María E. Undurraga,,,Evolución Política,EVO,1,I. Briones,28/04/2021,,
+30,4,Intendente,Juan E. Prieto,08/11/1984,37,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
+31,4,Ex Intendente,Geoconda Navarrete,08/09/1969,52,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
+61,6,Senador,Felipe Kast,09/06/1977,44,Evolución Política,EVO,1,I. Briones,26/01/2021,https://radio.uchile.cl/2021/01/26/apoyos-y-criticas-lo-que-dejo-la-salida-de-ignacio-briones-del-gabinete/,.
+129,7,Diputado,Sebastián Keitel,14/02/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/evopoli/status/1354053001904848897,.
+130,7,Diputado,Pablo Kast,24/08/1973,48,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/labkast/status/1354051966733873154,.
+131,7,Diputado,Sebastían Álvarez,13/11/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
+132,7,Diputado,Luciano Cruz-Coke,01/07/1970,51,Evolución Política,EVO,1,I. Briones,30/01/2021,https://twitter.com/evopoli/status/1355562214833475586,.
+133,7,Diputado,Andrés Molina,17/11/1963,58,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/andresmolinam/status/1354049947629461506,.
+134,7,Diputado,Francisco Undurraga,29/09/1965,56,Evolución Política,EVO,1,I. Briones,26/01/2021,https://twitter.com/Panchoundurraga/status/1354042149055188992,.
 27,3,Ministro,Patricio Melero,19-06-1956,65,Unión Demócrata Independiente,UDI,1,J. Lavín,02-09-2021,https://www.radioagricultura.cl/politica/2020/09/02/diputado-melero-sobre-joaquin-lavin-no-tengo-ninguna-duda-que-es-un-lider-de-centroderecha.html,.
-47,5,Alcalde,Rodolfo Carter Fernández,06/06/1971,50,Independiente,IND,1,J. Lavín,25/05/2021,https://www.cnnchile.com/pais/carter-confia-en-lavin-aprendido-a-escuchar-a-chile_20210524/,.
-99,6,Senador,Jacqueline Van Rysselberghe Herrera,03/02/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+47,5,Alcalde,Rodolfo Carter,06/06/1971,50,Independiente,IND,1,J. Lavín,25/05/2021,https://www.cnnchile.com/pais/carter-confia-en-lavin-aprendido-a-escuchar-a-chile_20210524/,.
+99,6,Senador,Jacqueline v. Rysselberghe,03/02/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+227,7,Diputado,Sergio Gahona,15/09/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,20/05/2021,https://twitter.com/LavinJoaquin/status/1395414687760670720,.
+229,7,Diputado,María J. Hoffman,28/12/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,19/05/2021,https://twitter.com/udipopular/status/1395129513705623553,.
+231,7,Diputado,Joaquín Lavín,25/05/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
+232,7,Diputado,Javier Macaya,11/11/1978,43,Unión Demócrata Independiente,UDI,1,J. Lavín,19/05/2021,https://twitter.com/udipopular/status/1395129513705623553,.
 254,7,Alcalde,Daniela Peñaloza,,,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
-227,7,Diputado,Sergio Gahona Salazar,15/09/1965,56,Unión Demócrata Independiente,UDI,1,J. Lavín,20/05/2021,https://twitter.com/LavinJoaquin/status/1395414687760670720,.
-229,7,Diputado,Maria José Hoffmann Opazo,28/12/1976,45,Unión Demócrata Independiente,UDI,1,J. Lavín,19/05/2021,https://twitter.com/udipopular/status/1395129513705623553,.
-231,7,Diputado,Joaquín Lavín León,25/05/1979,42,Unión Demócrata Independiente,UDI,1,J. Lavín,,,
-232,7,Diputado,Javier Macaya Danús,11/11/1978,43,Unión Demócrata Independiente,UDI,1,J. Lavín,19/05/2021,https://twitter.com/udipopular/status/1395129513705623553,.
-110,7,Diputado,Francesca Muñoz González,07/03/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-111,7,Diputado,Eduardo Durán Salinas,01/01/1972,49,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-112,7,Diputado,Camila Flores Oporto,09/02/1987,34,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-113,7,Diputado,Carlos Ignacio Kuschel Silva,16/03/1953,68,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-114,7,Diputado,Aracely Leuquén Uribe,24/11/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-117,7,Diputado,Cristobal Urruticoechea Ríos,21/11/1975,46,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-118,7,Diputado,Harry Jurgensen Rundshagen,03/09/1968,53,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-119,7,Diputado,Ignacio Urrutia Bonilla,16/09/1957,64,Partido Republicano,REP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
-38,4,Intendente,Felipe Guevara Stephens ,05/08/1967,54,Renovación Nacional,RN,1,M. Desbordes,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-89,6,Senador,Rafael Prohens Espinosa,12/06/1955,66,Renovación Nacional,RN,1,M. Desbordes,18/12/2020,https://twitter.com/RafaelProhensE/status/1339973109026353154,.
-101,7,Diputado,Andrés Celis Montt,08/04/1975,46,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-102,7,Diputado,Jorge Durán Espinosa,17/12/1980,41,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-103,7,Diputado,Francisco Eguiguren Correa,13/07/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-104,7,Diputado,Erika Olivera de la Fuente,04/01/1976,45,Independiente,IND,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-105,7,Diputado,Jorge Rathgeb Schifferli,28/12/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-106,7,Diputado,Hugo Rey Martínez,06/12/1973,48,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-107,7,Diputado,Andrés Longton Herrera,26/05/1982,39,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-108,7,Diputado,Camilo Morán Bahamondes,17/04/1990,31,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-116,7,Diputado,Pablo Prieto Lorca,04/05/1959,62,Independiente,IND,1,M. Desbordes,29/10/2020,https://www.24horas.cl/politica/diputados-rn-piden-a-desbordes-ser-candidato-presidencial-chile-lo-necesita-4510124,.
-4,2,Ex Presidente,Michelle Bachelet Jeria,29/09/1951,70,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
-29,3,Diputado,Pablo Vidal Rojas,24/06/1983,38,Nuevo Trato,NT,1,P. Narváez,19/05/2021,https://twitter.com/pablovidalrojas,.
-52,5,Alcalde,Gerardo Espíndola Rojas,23/07/1978,43,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
+119,7,Diputado,Ignacio Urrutia,16/09/1957,64,Partido Republicano,REP,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+110,7,Diputado,Francesca Muñoz,07/03/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+111,7,Diputado,Eduardo Durán,01/01/1972,49,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+112,7,Diputado,Camila Flores,09/02/1987,34,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+113,7,Diputado,Carlos Ignacio,16/03/1953,68,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+114,7,Diputado,Aracely Leuquén,24/11/1980,41,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+117,7,Diputado,Cristobal Urruticoechea,21/11/1975,46,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+118,7,Diputado,Harry Jurgensen R.,03/09/1968,53,Renovación Nacional,RN,1,JA. Kast,26/04/2019,https://www.elmostrador.cl/noticias/sin-editar/2019/04/26/un-nuevo-diputado-para-kast/,.
+38,4,Intendente,Felipe Guevara,05/08/1967,54,Renovación Nacional,RN,1,M. Desbordes,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+55,5,Alcalde,Germán Codina,28/03/1974,47,Renovación Nacional,RN,1,M. Desbordes,11-06-2021,,
+57,5,Alcalde,Juan C. Díaz,,,Renovación Nacional,RN,1,M. Desbordes,11-06-2021,,
+89,6,Senador,Rafael Prohens,12/06/1955,66,Renovación Nacional,RN,1,M. Desbordes,18/12/2020,https://twitter.com/RafaelProhensE/status/1339973109026353154,.
+104,7,Diputado,Erika Olivera,04/01/1976,45,Independiente,IND,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+116,7,Diputado,Pablo Prieto,04/05/1959,62,Independiente,IND,1,M. Desbordes,29/10/2020,https://www.24horas.cl/politica/diputados-rn-piden-a-desbordes-ser-candidato-presidencial-chile-lo-necesita-4510124,.
+101,7,Diputado,Andrés Celis,08/04/1975,46,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+102,7,Diputado,Jorge Durán,17/12/1980,41,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+103,7,Diputado,Francisco Eguiguren,13/07/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+105,7,Diputado,Jorge Rathgeb,28/12/1967,54,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+106,7,Diputado,Hugo Rey,06/12/1973,48,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+107,7,Diputado,Andrés Longton,26/05/1982,39,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+108,7,Diputado,Camilo Morán,17/04/1990,31,Renovación Nacional,RN,1,M. Desbordes,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+4,2,Ex Presidente,Michelle Bachelet,29/09/1951,70,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
+29,3,Diputado,Pablo Vidal,24/06/1983,38,Nuevo Trato,NT,1,P. Narváez,19/05/2021,https://twitter.com/pablovidalrojas,.
+52,5,Alcalde,Gerardo Espíndola,23/07/1978,43,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
+256,5,Alcalde,Roberto Neira,,,Partido por la Democracia,PPD,1,P. Narváez,11-06-2021,,
+263,5,Alcalde,Camilo Benavente,,,Partido por la Democracia,PPD,1,P. Narváez,11-06-2021,,
 53,5,Alcalde,Christopher White,,,Partido Socialista,PS,1,P. Narváez,,,
-54,5,Alcalde,Gervoy Paredes Rojas,,,Partido Socialista,PS,1,P. Narváez,28/04/2021,,
-74,6,Senador,Jaime Quintana Leal,22/10/1967,54,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
-76,6,Senador,Guido Girardi Lavín,24/01/1961,60,Partido por la Democracia,PPD,1,P. Narváez,20/05/2021,https://twitter.com/guidogirardi/status/1395461385459576838,.
-77,6,Senador,Adriana Muñoz D'Albora,25/09/1948,73,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
-78,6,Senador,Álvaro Elizalde Soto,15/10/1969,52,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
-79,6,Senador,José Miguel Insulza Salinas,02/06/1943,78,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
-80,6,Senador,Isabel Allende Bussi,18/01/1945,76,Partido Socialista,PS,1,P. Narváez,30/12/2020,https://www.latercera.com/la-tercera-pm/noticia/isabel-allende-y-su-sorpresivo-apoyo-a-paula-narvaez-es-el-tiempo-para-el-liderazgo-de-mujeres/G2TKKV3N4NFSTLJVM5SNMA2FU4/,.
-81,6,Senador,Alfonso De Urresti Longton,07/03/1966,55,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
-82,6,Senador,Juan Pablo Letelier Morel,07/01/1961,60,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
-83,6,Senador,Carlos Montes Cisternas,11/05/1946,75,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
-84,6,Senador,Rabindranath Quinteros Lara,31/10/1943,78,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
-162,7,Diputado,Alejandro Bernales Maldonado,02/02/1979,42,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
-163,7,Diputado,Vlado Mirosevic Verdugo,23/05/1987,34,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
-166,7,Diputado,Ricardo Celis Araya,11/07/1955,66,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
-168,7,Diputado,Tucapel Jiménez Fuentes,01/09/1962,59,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
-181,7,Diputado,Jenny Álvarez Vera,30/03/1974,47,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-182,7,Diputado,Juan Luis Castro González,18/04/1960,61,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-183,7,Diputado,Daniella Cicardini Milla,31/12/1987,34,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-184,7,Diputado,Fidel Espinoza Sandoval,24/01/1970,51,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-185,7,Diputado,Marcos Ilabaca Cerda,05/10/1970,51,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-186,7,Diputado,Raúl Leiva Carvajal,24/03/1974,47,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-187,7,Diputado,Manuel Monsalve Benavides,09/06/1965,56,Partido Socialista,PS,1,P. Narváez,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
-188,7,Diputado,Jaime Naranjo Ortiz,12/01/1951,70,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-189,7,Diputado,Emilia Nuyado Ancapichún,17/08/1968,53,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-190,7,Diputado,Luis Rocafull López,17/09/1958,63,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-192,7,Diputado,Gastón Saavedra Chandía,22/11/1955,66,Partido Socialista,PS,1,P. Narváez,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
-193,7,Diputado,Raúl Saldívar Auger,02/06/1951,70,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-194,7,Diputado,Juan Rubén Santana,20/09/1989,32,Partido Socialista,PS,1,P. Narváez,20/01/2021,https://www.theclinic.cl/2021/01/20/diputado-juan-santana-presidente-de-la-js-le-manifestaremos-desde-la-juventud-socialista-nuestro-completo-respaldo-a-paula-narvaez/,.
-195,7,Diputado,Marcelo Schilling Rodríguez,18/05/1949,72,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-196,7,Diputado,Leonardo Soto Ferrada,15/05/1966,55,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
-197,7,Diputado,Maya Fernández Allende,27/09/1971,50,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
-198,7,Diputado,Jaime Tohá González,16/06/1938,83,Partido Socialista,PS,1,P. Narváez,16/01/2021,https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2021/01/16/tras-uncion-de-bachelet-diputados-toha-saavedra-y-monsalve-apoyan-precandidatura-de-narvaez.shtml,.
-214,7,Diputado,Natalia Castillo Muñoz,01/08/1982,39,Nuevo Trato,NT,1,P. Narváez,28/04/2021,Instagram,.
-13,3,Ministro,Andrés Allamand Zavala,07/02/1956,65,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-44,4,Ex Intendente,Sergio Giacaman García ,07/09/1979,42,Unión Demócrata Independiente,UDI,1,S. Sichel,26/05/2021,https://digital.lasegunda.com/2021/05/26/A/KU3VIE9G#zoom=page-width,.
-98,6,Senador,Alejandro García-Huidobro Sanfuentes,19/04/1952,69,Unión Demócrata Independiente,UDI,1,S. Sichel,26/05/2021,https://digital.lasegunda.com/2021/05/26/A/KU3VIE9G#zoom=page-width,.
-115,7,Diputado,Miguel Mellado Suazo,29/12/1958,63,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-123,7,Diputado,Karin Luck Urban,19/07/1971,50,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-124,7,Diputado,Luis Pardo Sáinz,13/12/1960,61,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-125,7,Diputado,Diego Schalper Sepúlveda,14/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-126,7,Diputado,Tomás Fuentes Barros,10/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
-206,7,Diputado,Diego Paulsen Kehr,01/08/1987,34,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
-1,1,Presidente,Sebastián Piñera Echeñique,01/12/1949,72,Independiente,IND,0,,,,
-2,2,Ex Presidente,Eduardo Frei Ruiz-Tagle,24/06/1942,79,Partido Democrata Cristiano,DC,0,,,,
-3,2,Ex Presidente,Ricardo Lagos Escobar,02/03/1938,83,Partido por la Democracia,PPD,0,,,,
-28,3,Diputado,Pamela Jiles Moreno,30/11/1960,61,Partido Humanista,PH,0,,,,
-6,3,Ministro,Karla Rubilar Barahona,17/04/1977,44,Independiente,IND,0,,,,
-7,3,Ministro,Juan Carlos Jobet Eluchans,14/10/1975,46,Independiente,IND,0,,,,
-8,3,Ministro,Consuelo Valdés Chadwick,09/10/1948,73,Independiente,IND,0,,,,
-9,3,Ministro,Raúl Figueroa Salas,21/03/1975,46,Independiente,IND,0,,,,
-10,3,Ministro,Alfredo Moreno Charme,04/08/1956,65,Independiente,IND,0,,,,
-11,3,Ministro,Enrique Paris Mancilla,03/09/1948,73,Independiente,IND,0,,,,
-12,3,Ministro,Carolina Schmidt Zaldívar,09/09/1967,54,Independiente,IND,0,,,,
-14,3,Ministro,Baldo Prokuriça Prokuriça,02/07/1958,63,Renovación Nacional,RN,0,,,,
-15,3,Ministro,Cecilia Pérez Jara,23/09/1974,47,Renovación Nacional,RN,0,,,,
-16,3,Ministro,Lucas Palacios Covarrubias,17/03/1974,47,Unión Demócrata Independiente,UDI,0,,,,
-17,3,Ministro,Jaime Bellolio Avaría,29/11/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-18,3,Ministro,Felipe Ward Edwards ,14/09/1972,49,Unión Demócrata Independiente,UDI,0,,,,
-19,3,Ministro,Julio Isamit Díaz,18/02/1989,32,Unión Demócrata Independiente,UDI,0,,,,
-20,3,Ministro,Mónica Zalaquett Said,04/05/1962,59,Unión Demócrata Independiente,UDI,0,,,,
-21,3,Ministro,Hernán Larraín Fernández,21/09/1947,74,Unión Demócrata Independiente,UDI,0,,,,
+54,5,Alcalde,Gervoy Paredes,,,Partido Socialista,PS,1,P. Narváez,28/04/2021,,
+257,5,Alcalde,Juan Godoy,,,Partido Socialista,PS,1,P. Narváez,11-06-2021,,
+267,5,Alcalde,Manuel Zúñiga,,,Partido Socialista,PS,1,P. Narváez,11-06-2021,,
+74,6,Senador,Jaime Quintana,22/10/1967,54,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
+76,6,Senador,Guido Girardi,24/01/1961,60,Partido por la Democracia,PPD,1,P. Narváez,20/05/2021,https://twitter.com/guidogirardi/status/1395461385459576838,.
+77,6,Senador,Adriana Muñoz,25/09/1948,73,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
+78,6,Senador,Álvaro Elizalde,15/10/1969,52,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
+79,6,Senador,José Miguel,02/06/1943,78,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
+80,6,Senador,Isabel Allende,18/01/1945,76,Partido Socialista,PS,1,P. Narváez,30/12/2020,https://www.latercera.com/la-tercera-pm/noticia/isabel-allende-y-su-sorpresivo-apoyo-a-paula-narvaez-es-el-tiempo-para-el-liderazgo-de-mujeres/G2TKKV3N4NFSTLJVM5SNMA2FU4/,.
+81,6,Senador,Alfonso De,07/03/1966,55,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
+82,6,Senador,Juan Pablo,07/01/1961,60,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
+83,6,Senador,Carlos Montes,11/05/1946,75,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
+84,6,Senador,Rabindranath Quinteros,31/10/1943,78,Partido Socialista,PS,1,P. Narváez,27/01/2021,https://twitter.com/crivasa/status/1354500661166153732,.
+214,7,Diputado,Natalia Castillo,01/08/1982,39,Nuevo Trato,NT,1,P. Narváez,28/04/2021,Instagram,.
+162,7,Diputado,Alejandro Bernales,02/02/1979,42,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
+163,7,Diputado,Vlado Mirosevic,23/05/1987,34,Partido Liberal,PL,1,P. Narváez,28/04/2021,Instagram,.
+166,7,Diputado,Ricardo Celis,11/07/1955,66,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
+168,7,Diputado,Tucapel Jiménez,01/09/1962,59,Partido por la Democracia,PPD,1,P. Narváez,22/05/2021,https://twitter.com/PPD_Chile/status/1396223556795736073,.
+181,7,Diputado,Jenny Álvarez,30/03/1974,47,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+182,7,Diputado,Juan L. Castro,18/04/1960,61,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+183,7,Diputado,Daniella Cicardini,31/12/1987,34,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+184,7,Diputado,Fidel Espinoza,24/01/1970,51,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+185,7,Diputado,Marcos Ilabaca,05/10/1970,51,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+186,7,Diputado,Raúl Leiva,24/03/1974,47,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+187,7,Diputado,Manuel Monsalve,09/06/1965,56,Partido Socialista,PS,1,P. Narváez,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+188,7,Diputado,Jaime Naranjo,12/01/1951,70,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+189,7,Diputado,Emilia Nuyado,17/08/1968,53,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+190,7,Diputado,Luis Rocafull,17/09/1958,63,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+192,7,Diputado,Gastón Saavedra,22/11/1955,66,Partido Socialista,PS,1,P. Narváez,23/12/2020,https://www.latercera.com/politica/noticia/diputados-ps-piden-a-alvaro-elizalde-asumir-candidatura-presidencial/KTXWI22X6ZBDBCY6OXLS4SSUJA/,.
+193,7,Diputado,Raúl Saldívar,02/06/1951,70,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+194,7,Diputado,Juan Rubén,20/09/1989,32,Partido Socialista,PS,1,P. Narváez,20/01/2021,https://www.theclinic.cl/2021/01/20/diputado-juan-santana-presidente-de-la-js-le-manifestaremos-desde-la-juventud-socialista-nuestro-completo-respaldo-a-paula-narvaez/,.
+195,7,Diputado,Marcelo Schilling,18/05/1949,72,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+196,7,Diputado,Leonardo Soto,15/05/1966,55,Partido Socialista,PS,1,P. Narváez,19/01/2021,https://twitter.com/bancadaPSchile/status/1351593620114186240,.
+197,7,Diputado,Maya Fernández,27/09/1971,50,Partido Socialista,PS,1,P. Narváez,28/12/2020,https://www.latercera.com/la-tercera-pm/noticia/bachelet-ya-tiene-candidata-con-su-firma-unge-a-paula-narvaez-como-carta-ps/SJCZ7E2BIFBFHGNJ5K3UWJLIJE/,.
+198,7,Diputado,Jaime Tohá,16/06/1938,83,Partido Socialista,PS,1,P. Narváez,16/01/2021,https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2021/01/16/tras-uncion-de-bachelet-diputados-toha-saavedra-y-monsalve-apoyan-precandidatura-de-narvaez.shtml,.
+13,3,Ministro,Andrés Allamand,07/02/1956,65,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+44,4,Ex Intendente,Sergio Giacaman,07/09/1979,42,Unión Demócrata Independiente,UDI,1,S. Sichel,26/05/2021,https://digital.lasegunda.com/2021/05/26/A/KU3VIE9G#zoom=page-width,.
+98,6,Senador,Alejandro García,19/04/1952,69,Unión Demócrata Independiente,UDI,1,S. Sichel,26/05/2021,https://digital.lasegunda.com/2021/05/26/A/KU3VIE9G#zoom=page-width,.
+115,7,Diputado,Miguel Mellado,29/12/1958,63,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+123,7,Diputado,Karin Luck,19/07/1971,50,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+124,7,Diputado,Luis Pardo,13/12/1960,61,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+125,7,Diputado,Diego Schalper,14/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+126,7,Diputado,Tomás Fuentes,10/03/1985,36,Renovación Nacional,RN,1,S. Sichel,31/10/2020,https://www.ex-ante.cl/la-apuesta-de-sichel-en-rn/,.
+206,7,Diputado,Diego Paulsen,01/08/1987,34,Renovación Nacional,RN,1,S. Sichel,17/12/2020,https://www.theclinic.cl/2020/12/17/parte-ii-presidenciables-y-sus-equipos-los-aprontes-de-la-carrera-a-la-moneda/,.
+1,1,Presidente,Sebastián Piñera,01/12/1949,72,Independiente,IND,0,,,,
+2,2,Ex Presidente,Eduardo Frei,24/06/1942,79,Partido Democrata Cristiano,DC,0,,,,
+3,2,Ex Presidente,Ricardo Lagos E.,02/03/1938,83,Partido por la Democracia,PPD,0,,,,
+6,3,Ministro,Karla Rubilar,17/04/1977,44,Independiente,IND,0,,,,
+7,3,Ministro,Juan C. Jobet,14/10/1975,46,Independiente,IND,0,,,,
+8,3,Ministro,Consuelo Valdés,09/10/1948,73,Independiente,IND,0,,,,
+9,3,Ministro,Raúl Figueroa,21/03/1975,46,Independiente,IND,0,,,,
+10,3,Ministro,Alfredo Moreno,04/08/1956,65,Independiente,IND,0,,,,
+11,3,Ministro,Enrique Paris,03/09/1948,73,Independiente,IND,0,,,,
+12,3,Ministro,Carolina Schmidt,09/09/1967,54,Independiente,IND,0,,,,
 23,3,Ministro,Rodrigo Cerda,13-02-1973,48,Independiente,IND,0,,,,
 24,3,Ministro,Andrés Couve,23-10-1968,53,Independiente,IND,0,,,,
-25,3,Ministro,Juan José Ossa,12-09-1979,42,Renovación Nacional,RN,0,,,,
+28,3,Diputado,Pamela Jiles,30/11/1960,61,Partido Humanista,PH,0,,,,
+14,3,Ministro,Baldo Prokuriça,02/07/1958,63,Renovación Nacional,RN,0,,,,
+15,3,Ministro,Cecilia Pérez,23/09/1974,47,Renovación Nacional,RN,0,,,,
+25,3,Ministro,Juan J. Ossa,12-09-1979,42,Renovación Nacional,RN,0,,,,
+16,3,Ministro,Lucas Palacios,17/03/1974,47,Unión Demócrata Independiente,UDI,0,,,,
+17,3,Ministro,Jaime Bellolio,29/11/1980,41,Unión Demócrata Independiente,UDI,0,,,,
+18,3,Ministro,Felipe Ward,14/09/1972,49,Unión Demócrata Independiente,UDI,0,,,,
+19,3,Ministro,Julio Isamit,18/02/1989,32,Unión Demócrata Independiente,UDI,0,,,,
+20,3,Ministro,Mónica Zalaquett,04/05/1962,59,Unión Demócrata Independiente,UDI,0,,,,
+21,3,Ministro,Hernán Larraín,21/09/1947,74,Unión Demócrata Independiente,UDI,0,,,,
 26,3,Ministro,Rodrigo Delgado,13-06-1974,47,Unión Demócrata Independiente,UDI,0,,,,
-32,4,Intendente,Martín Arrau García-Huidobro ,,,Independiente,IND,0,,,,
-33,4,Intendente,César Asenjo Jerez ,,,Independiente,IND,0,,,,
-34,4,Intendente,José Fernández Dübrock ,10/10/1953,68,Independiente,IND,0,,,,
-35,4,Intendente,Edgar Blanco Rand ,,,Renovación Nacional,RN,0,,,,
-36,4,Intendente,Patricio Urquieta García ,15/12/1981,40,Renovación Nacional,RN,0,,,,
-37,4,Intendente,Jorge Martínez Durán ,19/11/1972,49,Renovación Nacional,RN,0,,,,
-39,4,Intendente,Víctor Manoli Nazal ,,,Renovación Nacional,RN,0,,,,
-40,4,Ex Intendente,Harry Jürgensen Caesar,30/05/1949,72,Renovación Nacional,RN,0,,,,
-41,4,Intendente,Miguel Ángel Quezada ,16/10/1969,52,Unión Demócrata Independiente,UDI,0,,,,
-42,4,Intendente,Lucía Pinto Ramírez,18/09/1975,46,Unión Demócrata Independiente,UDI,0,,,,
-43,4,Intendente,Rebeca Cofré Calderón ,23/08/1962,59,Unión Demócrata Independiente,UDI,0,,,,
-45,4,Intendente,Roberto Erpel Seguel ,17/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
-48,5,Alcalde,Jorge Sharp Fajardo,25/03/1985,36,Independiente,IND,0,,,,
-49,5,Alcalde,Mauricio Soria Macchiavello,03/03/1969,52,Independiente,IND,0,,,,
-51,5,Alcalde,Álvaro Ortíz Vera,24/10/1977,44,Partido Democrata Cristiano,DC,0,,,,
-55,5,Alcalde,Germán Codina Powers,28/03/1974,47,Renovación Nacional,RN,0,,,,
-57,5,Alcalde,Juan Carlos Díaz Avendaño,,,Renovación Nacional,RN,0,,,,
-60,6,Senador,Yasna Provoste Campillay,16/12/1969,52,Partido Democrata Cristiano,DC,0,,,,.
-62,6,Senador,Carmen Gloria Aravena Acuña,06/01/1967,54,Independiente,IND,0,,,,
-63,6,Senador,Juan Castro Prieto,01/11/1959,62,Renovación Nacional,RN,0,,,,
-64,6,Senador,Kenneth Pugh Olavarría,22/10/1959,62,Independiente,IND,0,,,,
-65,6,Senador,Carlos Bianchi Chelech,04/11/1960,61,Independiente,IND,0,,,,
-66,6,Senador,Alejandro Guillier Álvarez,05/03/1953,68,Independiente,IND,0,,,,
-67,6,Senador,Pedro Araya Guerrero,16/06/1974,47,Independiente,IND,0,,,,
-68,6,Senador,Alejandro Navarro Brain,20/11/1958,63,Pais Progresista,PPRO,0,,,,
-69,6,Senador,Francisco Huenchumilla Jaramillo,22/03/1944,77,Partido Democrata Cristiano,DC,0,,,,.
-70,6,Senador,Carolina Goic Boroevic,20/12/1972,49,Partido Democrata Cristiano,DC,0,,,,.
-71,6,Senador,Jorge Pizarro Soto,21/04/1952,69,Partido Democrata Cristiano,DC,0,,,,.
-72,6,Senador,Ricardo Lagos Weber,21/02/1962,59,Partido por la Democracia,PPD,0,,,,
-73,6,Senador,Ximena Órdenes Neira,09/03/1973,48,Independiente,IND,0,,,,
-75,6,Senador,Jorge Soria Quiroga,01/11/1936,85,Partido por la Democracia,PPD,0,,,,
-85,6,Senador,Marcela Sabat Fernández,04/04/1981,40,Renovación Nacional,RN,0,,,,
-86,6,Senador,Francisco Chahuan Chahuan,20/05/1971,50,Renovación Nacional,RN,0,,,,
-87,6,Senador,Rodrigo Galilea Vial,03/11/1966,55,Renovación Nacional,RN,0,,,,
-88,6,Senador,José García Ruminot,22/05/1955,66,Renovación Nacional,RN,0,,,,
-90,6,Senador,Manuel José Ossandón Irarrázabal,24/08/1962,59,Renovación Nacional,RN,0,,,,
-92,6,Senador,José Durana Semir,27/06/1960,61,Unión Demócrata Independiente,UDI,0,,,,
-93,6,Senador,Luz Ebensperger Orrego,08/03/1964,57,Unión Demócrata Independiente,UDI,0,,,,
-94,6,Senador,David Sandoval Plaza,20/10/1952,69,Unión Demócrata Independiente,UDI,0,,,,
-95,6,Senador,Juan Antonio Coloma Correa,15/07/1956,65,Unión Demócrata Independiente,UDI,0,,,,
-96,6,Senador,Iván Moreira Barros,08/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
-97,6,Senador,Ena Von Baer Jahn,28/11/1974,47,Unión Demócrata Independiente,UDI,0,,,,
-100,6,Senador,Claudio Alvarado Andrade,07/02/1960,61,Unión Demócrata Independiente,UDI,0,,,,
-135,7,Diputado,Alejandra Sepúlveda Orbenes,13/11/1965,56,Federación Regionalista Verde Social,FRVS,0,,,,
-137,7,Diputado,Esteban Velásquez Núñez,26/12/1962,59,Federación Regionalista Verde Social,FRVS,0,,,,
-253,7,Alcalde,Evelyn Matthei,,,Unión Demócrata Independiente,UDI,0,,,,
-109,7,Diputado,Mario Venegas Cárdenas,03/12/1957,64,Partido Democrata Cristiano,DC,0,,,,.
-120,7,Diputado,Miguel Calisto Águila,19/07/1985,36,Partido Democrata Cristiano,DC,0,,,,.
-121,7,Diputado,Gabriel Silber Romo,15/09/1976,45,Partido Democrata Cristiano,DC,0,,,,.
-122,7,Diputado,Daniel Verdessi Belemmi,15/12/1952,69,Partido Democrata Cristiano,DC,0,,,,.
-136,7,Diputado,Pedro Velasquez Seguel,05/08/1964,57,Independiente,IND,0,,,,
-138,7,Diputado,Karim Bianchi Retamales,31/01/1983,38,Independiente,IND,0,,,,
-139,7,Diputado,Rene Saffirio Espinoza,09/10/1955,66,Independiente,IND,0,,,,
-148,7,Diputado,Gabriel Ascencio Mansilla,25/10/1953,68,Partido Democrata Cristiano,DC,0,,,,.
-149,7,Diputado,Iván Flores García,15/06/1955,66,Partido Democrata Cristiano,DC,0,,,,.
-150,7,Diputado,Manuel Matta Aragay,10/11/1946,75,Partido Democrata Cristiano,DC,0,,,,.
-151,7,Diputado,José Miguel Ortiz Novoa,22/11/1941,80,Partido Democrata Cristiano,DC,0,,,,.
-152,7,Diputado,Joanna Pérez Olea,01/04/1976,45,Partido Democrata Cristiano,DC,0,,,,.
-153,7,Diputado,Raúl Soto Mardones,20/11/1987,34,Independiente,IND,0,,,,
-154,7,Diputado,Víctor Torres Jeldes,11/10/1975,46,Partido Democrata Cristiano,DC,0,,,,.
-155,7,Diputado,Pablo Lorenzini Basso,25/10/1949,72,Independiente,IND,0,,,,
-156,7,Diputado,Jorge Sabag Villalobos,26/12/1963,58,Partido Democrata Cristiano,DC,0,,,,.
-157,7,Diputado,Matias Walker Prieto,19/07/1973,48,Partido Democrata Cristiano,DC,0,,,,.
-158,7,Diputado,Félix González Gatica,26/05/1972,49,Partido Ecologista Verde,PEV,0,,,,
-159,7,Diputado,Raúl Florcita Alarcón Rojas,15/10/1945,76,Partido Humanista,PH,0,,,,
-160,7,Diputado,Tomás Hirsch Goldschmidt,19/07/1956,65,Independiente,IND,0,,,,
-161,7,Diputado,Camila Rojas Valderrama,11/03/1991,30,Comunes,Comunes,0,,,,
-164,7,Diputado,Claudia Mix Jiménez,13/07/1969,52,Comunes,Comunes,0,,,,
-165,7,Diputado,René Alinco Bustos,02/06/1958,63,Independiente,IND,0,,,,
-167,7,Diputado,Rodrigo González Torres,26/09/1941,80,Partido por la Democracia,PPD,0,,,,
-169,7,Diputado,Carolina Marzán Pinto,22/12/1963,58,Partido por la Democracia,PPD,0,,,,
-170,7,Diputado,Andrea Parra Sauterel,02/09/1967,54,Partido por la Democracia,PPD,0,,,,
-171,7,Diputado,Cristina Girardi Lavín,09/01/1962,59,Partido por la Democracia,PPD,0,,,,
-173,7,Diputado,Pepe Auth Stewart,06/03/1957,64,Independiente,IND,0,,,,
-176,7,Diputado,Fernando Meza Moncada,14/07/1946,75,Independiente,IND,0,,,,
-179,7,Diputado,Carlos Abel Jarpa Wevar,14/11/1944,77,Independiente,IND,0,,,,
-180,7,Diputado,Marcelo Díaz Díaz,06/02/1971,50,Independiente,IND,0,,,,
-191,7,Diputado,Patricio Rosas Barrientos,06/05/1968,53,Independiente,IND,0,,,,
-199,7,Diputado,Bernardo Berger Fett,04/10/1946,75,Renovación Nacional,RN,0,,,,
-200,7,Diputado,José Miguel Castro Bascuñan,05/08/1974,47,Renovación Nacional,RN,0,,,,
-201,7,Diputado,Sofía Cid Versalovic,29/09/1971,50,Renovación Nacional,RN,0,,,,
-202,7,Diputado,Catalina Del Real Mihovilovic,07/11/1968,53,Renovación Nacional,RN,0,,,,
-203,7,Diputado,Gonzalo Fuenzalida Figueroa,18/06/1973,48,Renovación Nacional,RN,0,,,,
-204,7,Diputado,Ramón Galleguillos Castillo,26/07/1953,68,Renovación Nacional,RN,0,,,,
-205,7,Diputado,René Manuel García Garcia,24/05/1950,71,Renovación Nacional,RN,0,,,,
-207,7,Diputado,Paulina Núñez Urrutia,30/12/1982,39,Renovación Nacional,RN,0,,,,
-208,7,Diputado,Leopoldo Pérez Lahsen,28/03/1957,64,Renovación Nacional,RN,0,,,,
-209,7,Diputado,Leonidas Romero Saéz,15/10/1955,66,Renovación Nacional,RN,0,,,,
-210,7,Diputado,Alejandro Santana Tirachini,18/07/1965,56,Renovación Nacional,RN,0,,,,
-211,7,Diputado,Frank Sauerbaum Muñoz,21/11/1972,49,Renovación Nacional,RN,0,,,,
-212,7,Diputado,Sebastián Torrealba Alvarado,06/02/1981,40,Renovación Nacional,RN,0,,,,
-213,7,Diputado,Ximena Ossandón Irarrázaval,13/12/1963,58,Renovación Nacional,RN,0,,,,
-221,7,Diputado,Sandra Amar Mancilla,24/11/1955,66,Independiente,IND,0,,,,
-222,7,Diputado,Nino Baltolú Rasera,28/09/1953,68,Unión Demócrata Independiente,UDI,0,,,,
-223,7,Diputado,Ramón Barros Montero,05/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-224,7,Diputado,Sergio Bobadilla Muñoz,25/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-225,7,Diputado,Álvaro Carter Fernández,09/10/1980,41,Independiente,IND,0,,,,
-226,7,Diputado,Juan Manuel Fuenzalida Cobo,01/07/1973,48,Unión Demócrata Independiente,UDI,0,,,,
-228,7,Diputado,Javier Hernández Hernández,07/08/1954,67,Unión Demócrata Independiente,UDI,0,,,,
-230,7,Diputado,Isaa Kort Garriga,09/05/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-233,7,Diputado,Cristián Labbe,06/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-234,7,Diputado,Celso Morales Muñoz,10/07/1957,64,Unión Demócrata Independiente,UDI,0,,,,
-235,7,Diputado,Nicolás Noman Garrido,07/05/1981,40,Unión Demócrata Independiente,UDI,0,,,,
-236,7,Diputado,Iván Norambuena Farías,04/09/1958,63,Unión Demócrata Independiente,UDI,0,,,,
-237,7,Diputado,Guillermo Ramírez Diez,16/04/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-238,7,Diputado,Rolando Rentería Moller,19/08/1968,53,Unión Demócrata Independiente,UDI,0,,,,
-239,7,Diputado,Gustavo Sanhueza Dueñas,10/12/1966,55,Unión Demócrata Independiente,UDI,0,,,,
-240,7,Diputado,Renzo Trisotti Martínez,15/03/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-241,7,Diputado,Virginia Troncoso Hellman,18/02/1951,70,Independiente,IND,0,,,,
-242,7,Diputado,Osvaldo Urrutia Soto,28/11/1951,70,Unión Demócrata Independiente,UDI,0,,,,
-243,7,Diputado,Gastón Von Muhlenbrock Zamora,26/12/1954,67,Unión Demócrata Independiente,UDI,0,,,,
-244,7,Diputado,Jorge Alessandri Vergara,08/06/1979,42,Unión Demócrata Independiente,UDI,0,,,,
-245,7,Diputado,Pedro Alvarez-Salamanca Ramírez,18/02/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-246,7,Diputado,Juan Antonio Coloma Álamos,14/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
-247,7,Diputado,Cristián Moreira Barros,05/09/1961,60,Unión Demócrata Independiente,UDI,0,,,,
-248,7,Diputado,Enrique Van Rysselberghe Herrera,17/09/1976,45,Unión Demócrata Independiente,UDI,0,,,,
-249,7,Diputado,Nora Cuevas Contreras,04/01/1959,62,Unión Demócrata Independiente,UDI,0,,,,
+32,4,Intendente,Martín Arrau,,,Independiente,IND,0,,,,
+33,4,Intendente,César Asenjo,,,Independiente,IND,0,,,,
+34,4,Intendente,José Fernández,10/10/1953,68,Independiente,IND,0,,,,
+35,4,Intendente,Edgar Blanco,,,Renovación Nacional,RN,0,,,,
+36,4,Intendente,Patricio Urquieta,15/12/1981,40,Renovación Nacional,RN,0,,,,
+37,4,Intendente,Jorge Martínez,19/11/1972,49,Renovación Nacional,RN,0,,,,
+39,4,Intendente,Víctor Manoli,,,Renovación Nacional,RN,0,,,,
+40,4,Ex Intendente,Harry Jürgensen,30/05/1949,72,Renovación Nacional,RN,0,,,,
+41,4,Intendente,Miguel Quezada,16/10/1969,52,Unión Demócrata Independiente,UDI,0,,,,
+42,4,Intendente,Lucía Pinto,18/09/1975,46,Unión Demócrata Independiente,UDI,0,,,,
+43,4,Intendente,Rebeca Cofré,23/08/1962,59,Unión Demócrata Independiente,UDI,0,,,,
+45,4,Intendente,Roberto Erpel,17/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
+51,5,Alcalde,Álvaro Ortíz,24/10/1977,44,Partido Democrata Cristiano,DC,0,,,,
+258,5,Alcalde,Carolina Leitao,,,Partido Democrata Cristiano,DC,0,,,,
+264,5,Alcalde,Emeterio Carrillo,,,Partido Democrata Cristiano,DC,0,,,,
+266,5,Alcalde,Claudia Pizarro,,,Partido Democrata Cristiano,DC,0,,,,
+275,5,Alcalde,Javier Muñoz,,,Partido Democrata Cristiano,DC,0,,,,
+265,5,Alcalde,Paulina Bobadilla,,,Independiente,FA-IND,0,,,,
+271,5,Alcalde,Felipe Muñoz,,,Independiente,FA-IND,0,,,,
+269,5,Alcalde,Eliecer Chamorro,,,Federación Regionalista Verde Social,FRVS,0,,,,
+255,5,Alcalde,Jonathan Velásquez,,,Independiente,IFP,0,,,,
+261,5,Alcalde,Ali Kashan,,,Independiente,IFP,0,,,,
+274,5,Alcalde,René de la Vega,,,Independiente,IFP,0,,,,
+276,5,Alcalde,Claudio Castro,,,Independiente,IFP,0,,,,
+48,5,Alcalde,Jorge Sharp,25/03/1985,36,Independiente,IND,0,,,,
+49,5,Alcalde,Mauricio Soria,03/03/1969,52,Independiente,IND,0,,,,
+260,5,Alcalde,Italo Bravo,,,Partido Igualdad,PI,0,,,,
+273,5,Alcalde,Claudio Radonich,,,Renovación Nacional,RN,0,,,,
+253,5,Alcalde,Evelyn Matthei,,,Unión Demócrata Independiente,UDI,0,,,,
+270,5,Alcalde,Henry Campos,,,Unión Demócrata Independiente,UDI,0,,,,
+272,5,Alcalde,Marcos López,,,Independiente,UD-IND,0,,,,
+60,6,Senador,Yasna Provoste,16/12/1969,52,Partido Democrata Cristiano,DC,0,,,,.
+69,6,Senador,Francisco Huenchumilla,22/03/1944,77,Partido Democrata Cristiano,DC,0,,,,.
+70,6,Senador,Carolina Goic,20/12/1972,49,Partido Democrata Cristiano,DC,0,,,,.
+71,6,Senador,Jorge Pizarro,21/04/1952,69,Partido Democrata Cristiano,DC,0,,,,.
+62,6,Senador,Carmen G. Aravena,06/01/1967,54,Independiente,IND,0,,,,
+64,6,Senador,Kenneth Pugh,22/10/1959,62,Independiente,IND,0,,,,
+65,6,Senador,Carlos Bianchi,04/11/1960,61,Independiente,IND,0,,,,
+66,6,Senador,Alejandro Guillier,05/03/1953,68,Independiente,IND,0,,,,
+67,6,Senador,Pedro Araya,16/06/1974,47,Independiente,IND,0,,,,
+73,6,Senador,Ximena Órdenes,09/03/1973,48,Independiente,IND,0,,,,
+72,6,Senador,Ricardo Lagos W.,21/02/1962,59,Partido por la Democracia,PPD,0,,,,
+75,6,Senador,Jorge Soria,01/11/1936,85,Partido por la Democracia,PPD,0,,,,
+68,6,Senador,Alejandro Navarro,20/11/1958,63,Pais Progresista,PPRO,0,,,,
+63,6,Senador,Juan Castro,01/11/1959,62,Renovación Nacional,RN,0,,,,
+85,6,Senador,Marcela Sabat,04/04/1981,40,Renovación Nacional,RN,0,,,,
+86,6,Senador,Francisco Chahuan,20/05/1971,50,Renovación Nacional,RN,0,,,,
+87,6,Senador,Rodrigo Galilea,03/11/1966,55,Renovación Nacional,RN,0,,,,
+88,6,Senador,José García R.,22/05/1955,66,Renovación Nacional,RN,0,,,,
+90,6,Senador,Manuel J. Ossandón,24/08/1962,59,Renovación Nacional,RN,0,,,,
+92,6,Senador,José Durana,27/06/1960,61,Unión Demócrata Independiente,UDI,0,,,,
+93,6,Senador,Luz Ebensperger,08/03/1964,57,Unión Demócrata Independiente,UDI,0,,,,
+94,6,Senador,David Sandoval,20/10/1952,69,Unión Demócrata Independiente,UDI,0,,,,
+95,6,Senador,Juan A. Coloma,15/07/1956,65,Unión Demócrata Independiente,UDI,0,,,,
+96,6,Senador,Iván Moreira,08/12/1956,65,Unión Demócrata Independiente,UDI,0,,,,
+97,6,Senador,Ena von Baer,28/11/1974,47,Unión Demócrata Independiente,UDI,0,,,,
+100,6,Senador,Claudio Alvarado,07/02/1960,61,Unión Demócrata Independiente,UDI,0,,,,
+161,7,Diputado,Camila Rojas,11/03/1991,30,Comunes,Comunes,0,,,,
+164,7,Diputado,Claudia Mix,13/07/1969,52,Comunes,Comunes,0,,,,
+109,7,Diputado,Mario Venegas,03/12/1957,64,Partido Democrata Cristiano,DC,0,,,,.
+120,7,Diputado,Miguel Calisto,19/07/1985,36,Partido Democrata Cristiano,DC,0,,,,.
+121,7,Diputado,Gabriel Silber,15/09/1976,45,Partido Democrata Cristiano,DC,0,,,,.
+122,7,Diputado,Daniel Verdessi,15/12/1952,69,Partido Democrata Cristiano,DC,0,,,,.
+148,7,Diputado,Gabriel Ascencio,25/10/1953,68,Partido Democrata Cristiano,DC,0,,,,.
+149,7,Diputado,Iván Flores,15/06/1955,66,Partido Democrata Cristiano,DC,0,,,,.
+150,7,Diputado,Manuel Matta,10/11/1946,75,Partido Democrata Cristiano,DC,0,,,,.
+151,7,Diputado,José Miguel Ortíz,22/11/1941,80,Partido Democrata Cristiano,DC,0,,,,.
+152,7,Diputado,Joanna Pérez,01/04/1976,45,Partido Democrata Cristiano,DC,0,,,,.
+154,7,Diputado,Víctor Torres,11/10/1975,46,Partido Democrata Cristiano,DC,0,,,,.
+156,7,Diputado,Jorge Sabag,26/12/1963,58,Partido Democrata Cristiano,DC,0,,,,.
+157,7,Diputado,Matias Walker,19/07/1973,48,Partido Democrata Cristiano,DC,0,,,,.
+135,7,Diputado,Alejandra Sepúlveda,13/11/1965,56,Federación Regionalista Verde Social,FRVS,0,,,,
+137,7,Diputado,Esteban Velásquez,26/12/1962,59,Federación Regionalista Verde Social,FRVS,0,,,,
+136,7,Diputado,Pedro Velasquez,05/08/1964,57,Independiente,IND,0,,,,
+138,7,Diputado,Karim Bianchi,31/01/1983,38,Independiente,IND,0,,,,
+139,7,Diputado,Rene Saffirio,09/10/1955,66,Independiente,IND,0,,,,
+153,7,Diputado,Raúl Soto,20/11/1987,34,Independiente,IND,0,,,,
+155,7,Diputado,Pablo Lorenzini,25/10/1949,72,Independiente,IND,0,,,,
+160,7,Diputado,Tomás Hirsch,19/07/1956,65,Independiente,IND,0,,,,
+165,7,Diputado,René Alinco,02/06/1958,63,Independiente,IND,0,,,,
+173,7,Diputado,Pepe Auth,06/03/1957,64,Independiente,IND,0,,,,
+176,7,Diputado,Fernando Meza,14/07/1946,75,Independiente,IND,0,,,,
+179,7,Diputado,Carlos Jarpa,14/11/1944,77,Independiente,IND,0,,,,
+180,7,Diputado,Marcelo Díaz,06/02/1971,50,Independiente,IND,0,,,,
+191,7,Diputado,Patricio Rosas,06/05/1968,53,Independiente,IND,0,,,,
+221,7,Diputado,Sandra Amar,24/11/1955,66,Independiente,IND,0,,,,
+225,7,Diputado,Álvaro Carter,09/10/1980,41,Independiente,IND,0,,,,
+241,7,Diputado,Virginia Troncoso,18/02/1951,70,Independiente,IND,0,,,,
+158,7,Diputado,Félix González,26/05/1972,49,Partido Ecologista Verde,PEV,0,,,,
+159,7,Diputado,Raúl Florcita Alarcón,15/10/1945,76,Partido Humanista,PH,0,,,,
+167,7,Diputado,Rodrigo González,26/09/1941,80,Partido por la Democracia,PPD,0,,,,
+169,7,Diputado,Carolina Marzán,22/12/1963,58,Partido por la Democracia,PPD,0,,,,
+170,7,Diputado,Andrea Parra,02/09/1967,54,Partido por la Democracia,PPD,0,,,,
+171,7,Diputado,Cristina Girardi,09/01/1962,59,Partido por la Democracia,PPD,0,,,,
 251,7,Diputado,Patricia Rubio,01/08/1970,51,Partido por la Democracia,PPD,0,,,,
-252,7,Senador,Loreto Carvajal Ambiado,18/05/1973,48,Partido por la Democracia,PPD,0,,,,
+252,7,Senador,Loreto Carvajal,18/05/1973,48,Partido por la Democracia,PPD,0,,,,
+199,7,Diputado,Bernardo Berger,04/10/1946,75,Renovación Nacional,RN,0,,,,
+200,7,Diputado,José Miguel,05/08/1974,47,Renovación Nacional,RN,0,,,,
+201,7,Diputado,Sofía Cid,29/09/1971,50,Renovación Nacional,RN,0,,,,
+202,7,Diputado,Catalina del Real,07/11/1968,53,Renovación Nacional,RN,0,,,,
+203,7,Diputado,Gonzalo Fuenzalida,18/06/1973,48,Renovación Nacional,RN,0,,,,
+204,7,Diputado,Ramón Galleguillos,26/07/1953,68,Renovación Nacional,RN,0,,,,
+205,7,Diputado,René M. García,24/05/1950,71,Renovación Nacional,RN,0,,,,
+207,7,Diputado,Paulina Núñez,30/12/1982,39,Renovación Nacional,RN,0,,,,
+208,7,Diputado,Leopoldo Pérez,28/03/1957,64,Renovación Nacional,RN,0,,,,
+209,7,Diputado,Leonidas Romero,15/10/1955,66,Renovación Nacional,RN,0,,,,
+210,7,Diputado,Alejandro Santana,18/07/1965,56,Renovación Nacional,RN,0,,,,
+211,7,Diputado,Frank Sauerbaum,21/11/1972,49,Renovación Nacional,RN,0,,,,
+212,7,Diputado,Sebastián Torrealba,06/02/1981,40,Renovación Nacional,RN,0,,,,
+213,7,Diputado,Ximena Ossandón,13/12/1963,58,Renovación Nacional,RN,0,,,,
+222,7,Diputado,Nino Baltolú,28/09/1953,68,Unión Demócrata Independiente,UDI,0,,,,
+223,7,Diputado,Ramón Barros,05/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
+224,7,Diputado,Sergio Bobadilla,25/03/1958,63,Unión Demócrata Independiente,UDI,0,,,,
+226,7,Diputado,Juan M. Fuenzalida,01/07/1973,48,Unión Demócrata Independiente,UDI,0,,,,
+228,7,Diputado,Javier Hernández,07/08/1954,67,Unión Demócrata Independiente,UDI,0,,,,
+230,7,Diputado,Isaa Kort,09/05/1980,41,Unión Demócrata Independiente,UDI,0,,,,
+233,7,Diputado,Cristián Labbe,06/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
+234,7,Diputado,Celso Morales,10/07/1957,64,Unión Demócrata Independiente,UDI,0,,,,
+235,7,Diputado,Nicolás Noman,07/05/1981,40,Unión Demócrata Independiente,UDI,0,,,,
+236,7,Diputado,Iván Norambuena,04/09/1958,63,Unión Demócrata Independiente,UDI,0,,,,
+237,7,Diputado,Guillermo Ramírez,16/04/1979,42,Unión Demócrata Independiente,UDI,0,,,,
+238,7,Diputado,Rolando Rentería,19/08/1968,53,Unión Demócrata Independiente,UDI,0,,,,
+239,7,Diputado,Gustavo Sanhueza,10/12/1966,55,Unión Demócrata Independiente,UDI,0,,,,
+240,7,Diputado,Renzo Trisotti,15/03/1976,45,Unión Demócrata Independiente,UDI,0,,,,
+242,7,Diputado,Osvaldo Urrutia,28/11/1951,70,Unión Demócrata Independiente,UDI,0,,,,
+243,7,Diputado,Gastón von Muhlenbrock,26/12/1954,67,Unión Demócrata Independiente,UDI,0,,,,
+244,7,Diputado,Jorge Alessandri,08/06/1979,42,Unión Demócrata Independiente,UDI,0,,,,
+245,7,Diputado,Pedro Alvarez,18/02/1976,45,Unión Demócrata Independiente,UDI,0,,,,
+246,7,Diputado,Juan A. Coloma A.,14/03/1980,41,Unión Demócrata Independiente,UDI,0,,,,
+247,7,Diputado,Cristián Moreira,05/09/1961,60,Unión Demócrata Independiente,UDI,0,,,,
+248,7,Diputado,Enrique v. Rysselberghe,17/09/1976,45,Unión Demócrata Independiente,UDI,0,,,,
+249,7,Diputado,Nora Cuevas,04/01/1959,62,Unión Demócrata Independiente,UDI,0,,,,
